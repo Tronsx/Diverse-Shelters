@@ -1,0 +1,4 @@
+Grime: 0.2065217
+PlacedObjects: BrokenShelterWaterLevel><236.348><256.7294><, ShelterBhvrManager><-63.64731><281.0784><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><159.1838><272.3113><, ShelterBhvrSpawnPosition><76.13><264.848><, ShelterBhvrSpawnPosition><383.4457><361.4589><, ShelterBhvrSpawnPosition><171.607><377.1102><, ShelterBhvrNoTriggerZone><360.4247><318.6853><123~106, 
+AmbientSounds: OMNI><am_env-lightwind.ogg><731.1555><475.6242><0.3586957><0.6869565, 
+FadePalette: 8, 0.3369565

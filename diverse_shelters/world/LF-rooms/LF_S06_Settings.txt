@@ -1,0 +1,7 @@
+DangerType: FloodAndRain
+Clouds: 0.3043478
+Grime: 0.3586957
+Effects: WaterDepth-0.07608695-20-20, 
+PlacedObjects: ShelterBhvrManager><377.2623><608.8004><466~-278~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><328.6954><215.1924><, ShelterBhvrSpawnPosition><292.5523><268.0303><, ShelterBhvrSpawnPosition><160.0813><210.9327><, ShelterBhvrNoTriggerZone><82.12335><362.3426><119~123, BrokenShelterWaterLevel><153.7962><246.6017><, 
+AmbientSounds: SPOT><AM_ENV-LightWind.ogg><735.3886><520.9161><0.3586957><1><153.3885><655.9161><-4.355347><-78.35535><0><0.1978262, OMNI><AM_IND-DeepHum.ogg><851.9875><25.69962><0.4782609><0.4326087, OMNI><AM_SUB-CaveTone.ogg><853.8151><103.8109><0.4565217><0.9217392, SPOT><AM_IND-50hz.ogg><737.0118><337.9496><0.173913><0.6282609><215.0119><276.9497><-251.3553><80.64465><0><0.1652175, 
+FadePalette: 8, 0.4130435

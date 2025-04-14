@@ -1,0 +1,6 @@
+[MERGE]
+Clouds: 0.2608696
+FadePalette: 8, 0.08695652
+PlacedObjects: BrokenShelterWaterLevel><708.2266><30.94861><, LightSource><284.1959><82.03998><0.25~Environment~727~-146~239~-254.3975~1~1~None~0~0, LightSource><295.0241><74.55145><0.3152174~Environment~624~-337~234~-364.3975~1~0~None~0~0, LightSource><197.1687><180.6426><0.2173913~Environment~478~-249~60~-416.3975~1~0~None~0~0, 
+AmbientSounds: SPOT><SO_WAT-LilDrips.ogg><734.8973><521.3647><0.3586957><1><593.8973><133.3647><-147.3553><-122.3553><0><0.3500001, 
+[ENDMERGE]

@@ -1,0 +1,5 @@
+Template: VS_SettingsTemplate_Sewer
+Grime: 0.2608696
+EffectColorB: 6
+PlacedObjects: ShelterBhvrManager><121.1586><262.8221><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><365.345><356.8735><115~130, ShelterBhvrSpawnPosition><113.8938><390.3889><, ShelterBhvrSpawnPosition><338.3022><390.2798><, ShelterBhvrSpawnPosition><258.6996><357.4872><, ShelterBhvrSpawnPosition><199.6206><356.4025><, 
+FadePalette: 10, 0.4673913

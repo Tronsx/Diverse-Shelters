@@ -1,0 +1,10 @@
+Template: NONE
+RumbleIntensity: 0
+Clouds: 1
+Grime: 0.1956522
+Palette: 14
+EffectColorA: 18
+EffectColorB: 6
+PlacedObjects: BrokenShelterWaterLevel><495.3025><438.557><, LightFixture><571.7019><615.3059><RedLight~17.32051~-10~39, ShelterBhvrManager><95.62589><266.9068><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><338.8049><400.0577><86~112, ShelterBhvrSpawnPosition><570.5763><434.1509><, ShelterBhvrSpawnPosition><491.5778><434.3516><, ShelterBhvrSpawnPosition><654.4002><447.5767><, 
+AmbientSounds: OMNI><Basic Mech.wav><704.1686><426.1425><0.2065217><1, OMNI><Deep Weird Wind.wav><704.5928><362.4272><0.1086956><1, SPOT><AM_IND-DeepHum.ogg><704.4806><237.1991><0.3043478><1><709.4806><598.1991><-212.3553><-88.35535><0><0.1, 
+FadePalette: 8, 0.9565217

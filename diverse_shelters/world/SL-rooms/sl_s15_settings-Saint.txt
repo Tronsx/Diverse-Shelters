@@ -1,0 +1,14 @@
+Template: SL_SettingsTemplate_Sewer
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 45
+EffectColorA: 12
+Effects: ReplaceEffectColorA-0.7391304-114-73-Color-0-0-1, 
+PlacedObjects: ShelterBhvrPlacedDoor><332.6034><541.6712><1^0, LightFixture><840.1951><556.4555><RedLight~17.32051~-10~30, ShelterBhvrManager><75.81396><161.3105><-149~42~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><568.6866><534.6781><, ShelterBhvrSpawnPosition><673.4918><512.9498><, ShelterBhvrNoTriggerZone><309.6971><498.5336><141~106, 
+AmbientSounds: OMNI><MSC-WetConduits.ogg><579.3938><398.111><0.25><1, 
+FadePalette: 35, 0.2282609
+WetTerrain: OFF

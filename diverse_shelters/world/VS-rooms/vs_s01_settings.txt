@@ -1,0 +1,4 @@
+EffectColorB: 6
+Effects: Darkness-0.2717391-17-90, 
+PlacedObjects: BrokenShelterWaterLevel><712.3084><245.5574><, ShelterBhvrManager><146.8394><266.1789><100~50~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><483.1964><204.1927><100~119, ShelterBhvrSpawnPosition><772.3054><350.046><, ShelterBhvrSpawnPosition><647.9482><256.5265><, ShelterBhvrSpawnPosition><828.121><252.1528><, ShelterBhvrSpawnPosition><722.6018><257.0779><, ShelterBhvrPlacedDoor><484.9086><268.1282><1^0, 
+FadePalette: 20, 0.2717391

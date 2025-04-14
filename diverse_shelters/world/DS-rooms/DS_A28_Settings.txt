@@ -1,0 +1,3 @@
+EffectColorA: 2
+EffectColorB: 1
+PlacedObjects: ShelterSpawnPoint><611.0541><305.2095><, UniqueDataPearl><315.0699><305.4129><0~0~0~0~DSH_Unlore_3~0, 

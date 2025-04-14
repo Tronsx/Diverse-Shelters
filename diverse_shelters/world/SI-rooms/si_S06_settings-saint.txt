@@ -1,0 +1,14 @@
+Template: SI_SettingsTemplate_Inside
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: Coldness-1-30-30, Flies-0-40-40, SkyDandelions-0-50-50, 
+PlacedObjects: ShelterBhvrManager><99.31835><263.0837><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><275.1933><358.1986><134~128, ShelterBhvrSpawnPosition><195.1121><348.8948><, 
+FadePalette: 0, 0.2717391
+WetTerrain: OFF

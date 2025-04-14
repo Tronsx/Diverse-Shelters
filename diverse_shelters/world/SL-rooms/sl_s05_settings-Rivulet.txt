@@ -1,0 +1,13 @@
+Template: SL_SettingsTemplate_Sewer
+DangerType: FloodAndRain
+CeilingDrips: 0.6630435
+WaveAmplitude: 0.01086957
+SecondWaveAmplitude: 0.3478261
+Grime: 0.2630436
+BkgDroneVolume: 0
+EffectColorA: 18
+EffectColorB: 0
+Effects: Contrast-0.05434782-21-46, Darkness-0.05434782-23-108, 
+PlacedObjects: ShelterBhvrManager><-32.6864><161.0726><-48~73~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><496.3416><514.6221><, ShelterBhvrSpawnPosition><406.3055><399.4533><, BrokenShelterWaterLevel><320.1801><378.9133><, ShelterBhvrSpawnPosition><536.2773><260.1981><, ShelterBhvrNoTriggerZone><165.2101><315.054><137~141, 
+AmbientSounds: OMNI><waterGurgleLOOP1.wav><745.424><552.1514><0.2282609><0.6869565, SPOT><SO_WAT-LilDrips.ogg><777.571><276.437><0.2065217><1><261.571><388.437><-77.35535><-32.35535><0><0.2195653, 
+FadePalette: 35, 0.4782609

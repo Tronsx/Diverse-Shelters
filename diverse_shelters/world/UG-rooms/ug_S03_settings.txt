@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: Rain
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0
+EffectColorA: 11
+Effects: SilenceWater-0.423913-61-99, HeatWave-0.2391304-59-38, 
+PlacedObjects: BrokenShelterWaterLevel><530.8198><344.4134><, LightSource><362.9096><366.3705><0.3043483~EffectColor1~-538~-93~50~86.60254~0~0~None~0~0, LightSource><363.9178><364.4323><0.1413043~EffectColor1~-43~130~52~-39.39746~0~1~None~0~0, ShelterBhvrManager><-84.15948><212.3707><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><187.8002><214.2582><, ShelterBhvrSpawnPosition><545.5651><338.5609><, ShelterBhvrNoTriggerZone><114.8201><369.0875><153~181, ShelterBhvrSpawnPosition><373.8265><274.6848><, 
+AmbientSounds: OMNI><am_sub-blankstate.ogg><703.4244><503.5978><0.2717391><0.7847826, 
+FadePalette: 8, 1
+WetTerrain: OFF

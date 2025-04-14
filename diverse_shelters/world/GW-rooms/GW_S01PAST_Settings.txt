@@ -1,0 +1,5 @@
+Clouds: 0.5760869
+Palette: 11
+PlacedObjects: ShelterBhvrSpawnPosition><642.7061><416.0549><, ShelterBhvrSpawnPosition><453.5862><352.8647><, 
+AmbientSounds: SPOT><waterGurgleLOOP1.wav><713.1771><371.407><0.25><1><493.1771><242.407><-51.35535><-44.35535><0><0.1, OMNI><AM_IND-Utility01.ogg><295.1981><443.4724><0.1521739><1, 
+FadePalette: 35, 0.7173913

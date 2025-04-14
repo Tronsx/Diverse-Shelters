@@ -1,0 +1,7 @@
+DangerType: FloodAndRain
+CeilingDrips: 0.5543478
+BkgDroneVolume: 0
+Palette: 12
+PlacedObjects: LanternOnStick><196.5549><466.2057><-51~-172, ShelterBhvrManager><-96.56653><241.8296><-72~80~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><325.4861><319.6995><, ShelterBhvrSpawnPosition><321.6044><525.3871><, ShelterBhvrNoTriggerZone><138.1055><188.6699><115~417, 
+AmbientSounds: SPOT><Weird Deep Hole.wav><742.1854><511.675><0.1847826><1><352.1854><169.675><-143.3553><-85.35535><0><0.1978262, OMNI><SO_WAT-DripTap.ogg><825.9442><648.5479><0.2826087><1, 
+FadePalette: 8, 0.9347826

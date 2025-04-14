@@ -1,0 +1,7 @@
+RumbleIntensity: 0
+Clouds: 0.423913
+Grime: 0.2391304
+Palette: 14
+PlacedObjects: BrokenShelterWaterLevel><499.8035><353.2126><, ShelterBhvrManager><101.1979><268.9714><-247~58~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><542.0781><329.6841><, ShelterBhvrSpawnPosition><721.1315><530.4007><, ShelterBhvrSpawnPosition><723.8422><205.8225><, ShelterBhvrPlacedDoor><336.0524><365.5307><1^0, LightSource><720.3413><196.1217><0.3043478~Environment~-143~101~78~-211.3975~1~0~None~0~0, LightBeam><645.7321><251.5508><25~416~112~415~154~-19~-441~157~0.4326086~0~0~1~None~0~0, LightSource><724.4039><201.1223><0.1413043~Environment~1~111~50~86.60254~1~1~None~0~0, LightSource><725.5546><590.0427><0.2065217~Environment~-169~-6~-207~-172.3975~1~1~None~0~0, ShelterBhvrNoTriggerZone><319.5541><307.4597><118~116, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><843.3016><639.9432><0.1521739><1, SPOT><AM_ENV-Outside.ogg><842.8298><523.3551><0.2826087><1><144.8298><548.3551><181.6447><-281.3553><0><0.404348, 
+FadePalette: 8, 0.1956522

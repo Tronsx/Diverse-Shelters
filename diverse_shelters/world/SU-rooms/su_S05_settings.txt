@@ -1,0 +1,6 @@
+Template: SU_SettingsTemplate_Inside
+EffectColorA: 2
+EffectColorB: 6
+PlacedObjects: ShelterBhvrManager><731.1841><208.6718><-53~97~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><304.197><276.0346><, ShelterBhvrSpawnPosition><218.0456><253.4447><, LightSource><174.1513><356.1308><0.7826087~Environment~-1~49~50~86.60254~1~0~None~0~0, ShelterBhvrNoTriggerZone><325.5504><234.2631><122~114, BrokenShelterWaterLevel><189.2475><257.3><, 
+AmbientSounds: SPOT><SO_IND-HeatDuct.ogg><581.05><451.751><0.25><1><170.05><352.751><-52.35535><-43.35535><0><0.1, 
+FadePalette: 8, 0.3152174

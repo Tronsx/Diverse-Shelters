@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.2608696
+BkgDroneVolume: 0
+Palette: 10
+EffectColorA: 13
+PlacedObjects: BrokenShelterWaterLevel><463.8011><407.2717><, LightSource><493.7319><413.9492><0.1195652~EffectColor1~-2~75~-248~-455.3975~0~1~None~0~0, LightSource><608.631><416.5892><0.08695652~EffectColor1~-5~50~-436~-14.39746~0~1~None~0~0, LightSource><557.5992><408.8813><0.1195652~EffectColor1~-1~340~145~-79.39746~0~0~None~0~0, ShelterBhvrManager><101.55><267.5031><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><482.6061><390.1695><, ShelterBhvrSpawnPosition><580.9467><418.5363><, ShelterBhvrNoTriggerZone><312.692><365.9441><130~131, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><757.3741><567.4069><0.09782609><1, OMNI><MSC-ShadowGully.ogg><583.0601><565.0593><0.1521739><1, 
+FadePalette: 9, 0.1413043

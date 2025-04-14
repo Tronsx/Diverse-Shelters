@@ -1,0 +1,15 @@
+Template: GW_SettingsTemplate_Inside
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.6304348
+RumbleIntensity: 0
+WaveSpeed: 0.5042353
+WaveLength: 0.8402737
+WaveAmplitude: 0.03152173
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 0
+Effects: Flies-0-20-20, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><760.8157><456.3276><0.4347826><1><399.8157><344.3276><-207.3553><-73.35535><0><0.328261, 
+FadePalette: 11, 0.4130435
+WetTerrain: OFF

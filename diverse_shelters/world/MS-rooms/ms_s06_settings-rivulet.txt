@@ -1,0 +1,5 @@
+Template: MS_SettingsTemplate_Vents
+Effects: ElectricDeath-0.01086957-25-143, Darkness-0-30-30, 
+PlacedObjects: BrokenShelterWaterLevel><285.4132><715.3881><, LightFixture><324.1225><213.1639><RedLight~17.32051~-10~0, LightFixture><74.82378><483.1378><RedLight~17.32051~-10~60, LightFixture><755.3301><485.3167><RedLight~17.32051~-10~58, BrokenShelterWaterLevel><501.9164><347.6108><, ShelterBhvrManager><107.1297><271.4023><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><375.059><269.5591><82~183, ShelterBhvrSpawnPosition><589.9496><314.2632><, ShelterBhvrSpawnPosition><517.6169><338.1006><, ShelterBhvrSpawnPosition><673.6999><329.0564><, 
+FadePalette: 5, 0.4456522
+MorePalette0: 10, 0.7065217

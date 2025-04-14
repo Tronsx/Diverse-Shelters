@@ -1,0 +1,8 @@
+Template: LC_SettingsTemplate_Inside
+Clouds: 0
+BkgDroneVolume: 0
+EffectColorA: 15
+EffectColorB: 7
+Effects: SkyAndLightBloom-0.423913-22-23, DayNight-0.5543478-14-131, 
+PlacedObjects: FairyParticleSettings><455.5601><318.8129><-1103~-57.33975~0~1~1~0~1~1.448696~60~495.2173~40~100~5~30~0~360~0~0.1999999~0.1521739~0.2282609~0.05434782~0.1413043~1~0.1195652~7.790894~Pixel~SIN_IO~SIN_IO~0~0~0, LightSource><562.3581><467.6683><0.02173912~Environment~-838~156~77~-522.3975~1~1~None~0~0, LightSource><850.6486><333.116><0.03260867~Environment~-238~88~-209~-287.3975~1~1~None~0~0, SuperStructureFuses><652.098><448.5757><182~70, SuperStructureFuses><410.1553><361.8759><58~114, DayNightSettings><156.1642><518.3859><5~8.660254~31~33, ShelterBhvrManager><117.4834><263.5507><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><514.4175><346.1093><110~97, ShelterBhvrSpawnPosition><571.3498><291.3679><, ShelterBhvrSpawnPosition><446.9028><236.3709><, ShelterBhvrSpawnPosition><513.6507><154.6185><, LightSource><518.3366><140.6153><0.05434782~Environment~1~184~50~86.60254~1~1~None~0~0, 
+FadePalette: 60, 0.7282609

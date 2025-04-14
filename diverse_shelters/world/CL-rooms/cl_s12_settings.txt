@@ -1,0 +1,13 @@
+CeilingDrips: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 7.119959E-34
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0
+EffectColorB: 21
+Effects: LightBurn-1-80-75, 
+PlacedObjects: BrokenShelterWaterLevel><473.7945><377.195><, ShelterBhvrManager><122.6077><269.8906><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><313.3201><332.5873><131~114, ShelterBhvrSpawnPosition><734.4203><354.3952><, ShelterBhvrSpawnPosition><637.2888><377.5538><, ShelterBhvrSpawnPosition><576.3099><404.1876><, ShelterBhvrSpawnPosition><504.8225><378.8421><, LightBeam><505.0754><407.5977><201~214~239~183~100~-63~-409~30.00001~0.4108694~0~0~1~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><832.3001><644.744><0.2826087><0.7847826, OMNI><AM_WIN-SubWnd.ogg><651.1884><647.5673><0.2826087><1, 
+FadePalette: 0, 0.2608696
+WetTerrain: OFF

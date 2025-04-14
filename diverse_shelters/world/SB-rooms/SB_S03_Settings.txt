@@ -1,0 +1,7 @@
+DangerType: FloodAndRain
+Palette: 17
+EffectColorA: 19
+Effects: ReplaceEffectColorB-0.5-126-85-Color-1-0-0, 
+PlacedObjects: LightFixture><383.6569><256.6261><RedLight~-8.679504~200~8, ShelterBhvrManager><-9.529236><175.9478><-133~38~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><548.071><334.3393><, ShelterBhvrSpawnPosition><550.1663><202.4316><, BrokenShelterWaterLevel><727.1027><56.88531><, ShelterBhvrSpawnPosition><859.8524><335.615><, ShelterBhvrSpawnPosition><869.8019><201.7776><, ShelterBhvrSpawnPosition><869.175><58.6534><, ShelterBhvrSpawnPosition><544.8054><56.7963><, LightFixture><1068.14><256.643><RedLight~-373.6795~251~41, ShelterBhvrPlacedDoor><715.0049><510.3><0^-1, ShelterBhvrNoTriggerZone><653.9379><403.3187><112~102, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><822.4802><639.051><0.3695652><1, OMNI><AM_SUB-BlankState.ogg><649.3596><639.1674><0.3152174><1, 
+FadePalette: 21, 0.1956522

@@ -1,0 +1,15 @@
+Template: NONE
+RainIntensity: 0
+RumbleIntensity: 0.01086957
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 0
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0
+Palette: 28
+EffectColorA: 8
+Effects: DayNight-0.7282609-29-123, 
+PlacedObjects: ShelterBhvrManager><-24.82465><160.3145><-76~-20~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><579.4825><85.94925><, ShelterBhvrSpawnPosition><631.4333><542.3297><, ShelterBhvrSpawnPosition><828.5525><527.9689><, DayNightSettings><63.59399><399.1248><5~8.660254~35~10, ShelterBhvrPlacedDoor><266.7053><549.0551><1^0, ShelterBhvrNoTriggerZone><272.0507><495.2671><141~112, ShelterBhvrNoTriggerZone><697.1957><359.2086><75~122, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><720.884><579.913><0.2934783><1, SPOT><AM_IND-Welder.ogg><715.4297><370.0878><0.5><1><621.4297><326.0878><-55.35535><-52.35535><0><0.1, 
+FadePalette: 3, 0.1304348

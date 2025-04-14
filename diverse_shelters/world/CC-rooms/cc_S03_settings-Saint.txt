@@ -1,0 +1,12 @@
+Template: CC_SettingsTemplate_Inside
+CeilingDrips: 0
+WaveSpeed: 0.4873383
+WaveLength: 0.7436692
+WaveAmplitude: 0.01726061
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 0
+EffectColorB: 21
+PlacedObjects: ShelterBhvrManager><-24.11993><306.34><-59~-15~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><733.3362><164.8195><, ShelterBhvrSpawnPosition><593.4088><325.1216><, ShelterBhvrSpawnPosition><288.3582><323.1682><, ShelterBhvrPlacedDoor><185.0587><186.8083><1^0, BrokenShelterWaterLevel><570.0511><155.5214><, ShelterBhvrNoTriggerZone><177.3762><122.6551><125~128, ShelterBhvrSpawnPosition><287.8005><472.2349><, ShelterBhvrSpawnPosition><593.8796><474.5903><, SnowSource><439.3114><175.1903><Radial~-2~130~50~86.60254~0.3913043~1, 
+FadePalette: 8, 0.4130435
+WetTerrain: OFF

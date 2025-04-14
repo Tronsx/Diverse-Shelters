@@ -1,0 +1,5 @@
+Template: SI_SettingsTemplate_Inside
+Palette: 3
+Effects: Hue-0.9347826-24-70, Desaturation-0.3043478-274-135, Darkness-0.25-278-16, 
+PlacedObjects: ShelterBhvrManager><102.3834><264.6625><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><197.9468><355.7146><, ShelterBhvrNoTriggerZone><275.9838><364.8007><142~109, 
+FadePalette: 8, 0.2173913

@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.2826087
+RumbleIntensity: 0.2608696
+WaveSpeed: 0.5026373
+WaveLength: 0.9280292
+WaveAmplitude: 0.01413043
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0.2173913
+Palette: 0
+EffectColorA: 2
+EffectColorB: 1
+PlacedObjects: ShelterBhvrManager><98.02804><270.698><-155~68~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><490.3043><228.7913><0^1, ShelterBhvrSpawnPosition><267.5><135.45><, ShelterBhvrSpawnPosition><581.8231><361.9361><, ShelterBhvrSpawnPosition><691.6627><355.3201><, ShelterBhvrSpawnPosition><405.5593><378.691><, 
+AmbientSounds: OMNI><AM_IND-Warehouse01.ogg><806.8074><416.3084><0.3478261><0.7652174, SPOT><Basic Mech.ogg><727.8119><163.0679><0.1847826><1.03913><480.8119><239.0679><-54.35535><-43.35535><0><0.3391306, 
+FadePalette: 8, 0.1086956
+WetTerrain: OFF

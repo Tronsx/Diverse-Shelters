@@ -1,0 +1,4 @@
+Template: DM_SettingsTemplate_Conflux
+Effects: Bloom-0.8586956-20-75, 
+PlacedObjects: WallMycelia><292.0414><581.4541><0~100, WallMycelia><823.8529><604.8512><0~100, LightFixture><245.1943><200.0619><RedLight~-358.6795~232~4, LightFixture><850.5872><523.3582><RedLight~17.32051~-10~64, LightFixture><27.15356><541.4252><RedLight~17.32051~-10~48, ShelterBhvrManager><-114.501><114.1194><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><377.3737><153.1572><279~91, ShelterBhvrSpawnPosition><432.151><280.6207><, ShelterBhvrSpawnPosition><591.4869><277.8005><, ShelterBhvrSpawnPosition><751.324><281.5641><, ShelterBhvrPlacedDoor><430.6888><154.267><0^1, ShelterBhvrPlacedDoor><595.2661><157.8987><0^1, WallMycelia><755.659><322.6323><0~100, WallMycelia><430.3945><359.1478><4~71, 
+FadePalette: 0, 0.08695652

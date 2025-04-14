@@ -1,0 +1,12 @@
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+EffectColorA: 0
+EffectColorB: 9
+Effects: FairyParticles-0.09782609-40-40, 
+PlacedObjects: FairyParticleSettings><446.7613><-44.94968><5~8.660254~1~7.065217~37.5~0~1~2.09349~60~180~40~100~0~19.56522~0~23.47826~0~0.09782609~1~1~0.4347826~0.5217391~0.7065217~0.2717391~9.51087~Leaf~SIN_IO~SIN_IO~77.82593~1~0.6521739, ShelterBhvrManager><106.1406><269.9175><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><324.147><129.6715><102~123, ShelterBhvrSpawnPosition><435.7941><337.6951><, ShelterBhvrSpawnPosition><821.7238><344.4483><, ShelterBhvrSpawnPosition><798.914><176.8194><, ShelterBhvrSpawnPosition><682.9456><195.2086><, 
+FadePalette: 75, 0.173913
+WetTerrain: OFF

@@ -1,0 +1,3 @@
+[ADD]DSH_Unlore_1 : 006306 : FFD677 : DSH_Outskirts
+[ADD]DSH_Unlore_2 : 6B0700 : FF1000 : DSH_SkyIslands
+[ADD]DSH_Unlore_3 : 00FFB6 : FF7FF8 : DSH_Drainage

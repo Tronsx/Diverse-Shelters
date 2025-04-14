@@ -1,0 +1,16 @@
+Template: CL_SettingsTemplate_DarkSun
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.7173913
+EffectColorB: 21
+Effects: LightBurn-0.25-30-30, 
+PlacedObjects: ShelterBhvrManager><116.5615><268.9331><100~50~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><268.0884><520.3206><1^0, ShelterBhvrNoTriggerZone><270.837><466.1159><95~116, ShelterBhvrSpawnPosition><421.2><491.5047><, ShelterBhvrSpawnPosition><490.0524><416.7188><, ShelterBhvrSpawnPosition><627.8936><506.1392><, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><837.95><642.0016><0.1630435><1, SPOT><AM_ENV-NatWind.ogg><845.5855><522.1362><0.1521739><1><-104.4145><493.1362><275.6447><42.64465><0><0.7739132, 
+FadePalette: 0, 0.4456522
+WetTerrain: OFF

@@ -1,0 +1,7 @@
+Template: SH_SettingsTemplate_DarkSun
+Clouds: 0.2282609
+EffectColorA: 14
+EffectColorB: 14
+Effects: LightBurn-0.2934783-14-119, Fog-0.5217391-20-20, Bloom-0.6847826-16-66, WaterDepth-0.1847826-30-30, 
+PlacedObjects: LightSource><329.3421><258.3774><0.06521744~EffectColor1~196~60~217~-254.3975~0~1~None~0~0, LightSource><409.4426><286.804><0.05434779~EffectColor1~193~-146~215~-303.3975~1~1~Fade~0.6086956~0, LightSource><330.0202><283.699><0.4021739~EffectColor1~178~-7~50~86.60254~0~0~None~0~0, BrokenShelterWaterLevel><415.9303><362.6634><, ShelterBhvrNoTriggerZone><453.3796><330.4097><118~112, ShelterBhvrManager><123.6864><268.3225><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><226.873><352.5955><, ShelterBhvrSpawnPosition><304.2832><366.4472><, 
+FadePalette: 9, 0.3152174

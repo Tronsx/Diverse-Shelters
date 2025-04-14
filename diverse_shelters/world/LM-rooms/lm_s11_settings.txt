@@ -1,0 +1,11 @@
+Template: LM_SettingsTemplate_Sewer
+DangerType: Flood
+CeilingDrips: 0.6847826
+Clouds: 1
+Grime: 0
+BkgDroneVolume: 0
+Palette: 35
+EffectColorA: 12
+PlacedObjects: BrokenShelterWaterLevel><634.7582><470.8002><, ShelterBhvrManager><76.87209><265.0963><-147~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><471.4763><427.3014><121~126, ShelterBhvrSpawnPosition><718.1996><471.2629><, ShelterBhvrSpawnPosition><811.4331><473.3267><, 
+AmbientSounds: OMNI><AM_RAIN-Rumbles.ogg><811.4434><485.3082><0.2173913><1, 
+FadePalette: 10, 0.6630435

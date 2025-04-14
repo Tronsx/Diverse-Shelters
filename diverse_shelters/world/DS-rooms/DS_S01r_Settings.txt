@@ -1,0 +1,7 @@
+DangerType: FloodAndRain
+Clouds: 1
+Grime: 0.2717391
+EffectColorA: 3
+EffectColorB: 13
+PlacedObjects: ShelterBhvrManager><463.6972><237.5338><53~-286~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><228.6069><193.8309><, ShelterBhvrSpawnPosition><331.5378><191.1964><, BrokenShelterWaterLevel><246.801><211.7297><, ShelterBhvrNoTriggerZone><470.182><319.8328><115~101, 
+FadePalette: 8, 0.3804348

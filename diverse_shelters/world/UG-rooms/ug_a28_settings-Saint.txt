@@ -1,0 +1,13 @@
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.5106153
+WaveLength: 0.9946924
+WaveAmplitude: 4.038474E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0.1086956
+EffectColorA: 2
+EffectColorB: 1
+PlacedObjects: ShelterSpawnPoint><611.0541><305.2095><, UniqueDataPearl><315.0699><305.4129><0~0~0~0~Misc~0, SnowSource><477.5947><414.124><Radial~12~205~-304~89.60255~0.9565217~1, 
+FadePalette: 0, 0.2391304
+WetTerrain: OFF

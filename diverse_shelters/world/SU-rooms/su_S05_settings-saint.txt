@@ -1,0 +1,16 @@
+Template: SU_SettingsTemplate_Inside
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+EffectColorA: 2
+EffectColorB: 7
+Effects: Coldness-0.4021739-20-20, 
+PlacedObjects: ShelterBhvrManager><719.3269><182.5654><19~129~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><217.3782><251.4086><, ShelterBhvrSpawnPosition><286.7><274.2448><, LanternOnStick><260.1369><316.5851><17~-86, ShelterBhvrNoTriggerZone><328.5554><221.4421><117~121, 
+FadePalette: 10, 0.1847826
+WetTerrain: OFF

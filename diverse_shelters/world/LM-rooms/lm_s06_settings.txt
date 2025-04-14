@@ -1,0 +1,5 @@
+Template: LM_SettingsTemplate_Sewer
+Palette: 35
+EffectColorB: 6
+PlacedObjects: BrokenShelterWaterLevel><461.8264><320.1506><, ShelterBhvrManager><6.449646><214.9884><-176~38~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><370.3838><507.0872><0^-1, ShelterBhvrNoTriggerZone><290.669><391.3569><371~121, ShelterBhvrSpawnPosition><368.3029><324.4663><, ShelterBhvrSpawnPosition><466.9371><289.1795><, ShelterBhvrSpawnPosition><563.0806><312.6062><, ShelterBhvrPlacedDoor><593.6947><509.9542><0^-1, 
+FadePalette: 3, 0.3043478

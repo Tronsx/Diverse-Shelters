@@ -1,0 +1,13 @@
+Template: HR_SettingsTemplate_HellNew
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 1
+Effects: Darkness-0.1956522-56-127, 
+PlacedObjects: FairyParticleSettings><581.1583><465.6222><-811~-241.3398~1~7.065217~37.5~0~1~2.35436~60~180~40~100~0~19.56522~0~23.47826~0.1086956~0.1413043~1~1~0.4347826~0.5217391~0.7065217~0.2717391~9.51087~Leaf~SIN_IO~SIN_IO~8.78259~1~0.6521739, LightFixture><552.3245><159.4356><HolyFire~17.32051~-10~5, ShelterBhvrManager><110.9464><267.4625><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><683.1832><58.93852><107~118, ShelterBhvrSpawnPosition><554.8583><95.39116><, ShelterBhvrSpawnPosition><477.3007><112.732><, ShelterBhvrSpawnPosition><619.3653><96.1021><, 
+AmbientSounds: SPOT><so_nat-fire.ogg><705.209><509.6957><0.4021739><1><553.209><157.6957><-72.35535><-55.35535><0><0.1, 
+FadePalette: 75, 0.4021739
+WetTerrain: OFF

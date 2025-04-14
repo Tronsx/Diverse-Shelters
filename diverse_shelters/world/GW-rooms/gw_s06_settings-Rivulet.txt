@@ -1,0 +1,8 @@
+DangerType: FloodAndRain
+Clouds: 0.8043478
+EffectColorA: 13
+EffectColorB: 8
+Effects: Desaturation-0.2934783-21-75, 
+PlacedObjects: ShelterBhvrManager><-146.829><84.39629><-35~250~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><854.3826><290.3998><, ShelterBhvrSpawnPosition><765.6299><305.91><, BrokenShelterWaterLevel><836.1477><278.1719><, ShelterBhvrNoTriggerZone><716.9449><383.955><131~164, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><833.6695><645.6062><0.1521739><0.7065217, OMNI><SO_WAT-DripTap.ogg><757.8718><308.6535><0.173913><0.7652174, SPOT><OM.wav><668.9478><165.22><0.25><1><766.9478><318.22><-99.35535><-53.35535><0><0.1, 
+FadePalette: 10, 0.5543478

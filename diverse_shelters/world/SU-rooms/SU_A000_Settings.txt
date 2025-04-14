@@ -1,0 +1,13 @@
+DangerType: Flood
+CeilingDrips: 0
+WaveSpeed: 0.7976449
+WaveLength: 0.8511776
+WaveAmplitude: 5.955503E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.8260869
+Grime: 0.2717391
+EffectColorB: 8
+PlacedObjects: DeadVultureGrub><538.604><272.1367><-108~-211~34~38, UniqueDataPearl><562.1819><353.938><-660~30~0~0~DSH_Unlore_1~0, LightBeam><396.4431><388.6981><30~392~326~389~138~-4~-265~10~0.4~0~0~1~None~0~0, LightSource><536.6895><712.9406><0.108696~Environment~-185~44~-491~-478.3975~1~1~None~0~0, 
+FadePalette: 4, 0.3478261
+WetTerrain: OFF

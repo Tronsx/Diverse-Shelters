@@ -1,0 +1,6 @@
+Template: RM_SettingsTemplate_Lympathic
+EffectColorA: 18
+Effects: ZeroG-0.7934783-275-21, BkgOnlyLightning-0.4891304-271-128, ElectricDeath-0.1086956-510-135, 
+PlacedObjects: LightSource><104.9466><381.6348><0.4966087~EffectColor1~1146~-452~50~86.60254~0~0~Fade~0.7257267~0, LightFixture><352.8419><198.5723><RedLight~17.32051~-10~0, WallMycelia><630.6584><146.1812><0~100, WallMycelia><630.9999><359><0~100, ShelterBhvrManager><125.0383><478.4463><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><379.4016><162.0333><112~143, ShelterBhvrSpawnPosition><605.1752><150.8463><, LightningMachine><624.3079><234.8274><135.9999~161~0~0~-57~67.60248~73~73~0.04347826~0~0~0.9168661~0.4320148~1~0.847769~0.3694325~0~0.5260169~0~1~0, LightningMachine><625.9819><228.9971><125.9999~-85~0~0~-62~-47.39752~58~-51~0.04347826~0~0~0.9168661~0.4320148~1~0.847769~0.3694325~0~0.5260169~0~1~0, EnergySwirl><625.1653><230.0689><EffectColor1~-6~17~-365.007~269.6198~0.1676185, ShelterBhvrSpawnPosition><624.7368><262.5504><, 
+AmbientSounds: OMNI><am_rain-rumbles.ogg><637.9496><502.513><0.1086956><0.9413043, 
+FadePalette: 10, 0.2934783

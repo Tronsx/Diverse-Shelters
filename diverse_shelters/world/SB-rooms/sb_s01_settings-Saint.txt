@@ -1,0 +1,14 @@
+Template: SB_SettingsTemplate_Filter
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 8.999999E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0.06521739
+Palette: 17
+Effects: WaterDepth-0.1195652-20-20, VoidSpawn-0.2173913-26-93, VoidMelt-0.2717391-281-92, 
+PlacedObjects: LightFixture><338.8066><606.949><RedLight~-170.6795~69~92, LightFixture><795.0292><356.5521><RedLight~-185.6795~7~54, BrokenShelterWaterLevel><487.6775><492.3136><, ShelterBhvrManager><104.0017><263.2><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><222.7283><495.6989><, ShelterBhvrSpawnPosition><456.8064><495.6998><, ShelterBhvrSpawnPosition><333.4489><294.2714><, 
+WetTerrain: OFF

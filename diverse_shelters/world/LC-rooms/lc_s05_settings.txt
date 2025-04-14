@@ -1,0 +1,6 @@
+Template: LC_SettingsTemplate_Tower
+BkgDroneVolume: 0
+EffectColorA: 14
+PlacedObjects: LightFixture><467.9395><415.0641><RedLight~17.32051~-10~32, SuperStructureFuses><428.8649><485.1026><121~67, SuperStructureFuses><429.1887><171.3287><52~143, SuperStructureFuses><553.0706><249.4372><71~74, LightSource><472.0953><419.1269><0.5~EffectColor1~685~291~146~132.6025~0~0~Fade~0.4891304~0, ShelterBhvrManager><114.6985><266.7254><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><577.7731><358.8013><97~139, ShelterBhvrSpawnPosition><721.465><394.4469><, ShelterBhvrSpawnPosition><809.5601><416.3126><, ShelterBhvrSpawnPosition><906.7648><394.0505><, 
+AmbientSounds: SPOT><SO_SFX-Data4.ogg><870.8319><529.0675><0.173913><0.8826087><504.8318><140.0676><257.6447><57.64465><0><0.3608697, SPOT><SO_SFX-Data1.ogg><860.4496><105.7368><0.1086956><0.6673913><534.4495><580.7368><-18.35535><-130.3553><0><0.2847827, 
+FadePalette: 10, 0.3695652

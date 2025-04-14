@@ -1,0 +1,9 @@
+Template: SI_SettingsTemplate_Inside
+DangerType: FloodAndRain
+Clouds: 0.01086957
+Palette: 3
+EffectColorA: 8
+Effects: SkyAndLightBloom-0.02173913-220-66, 
+PlacedObjects: ShelterBhvrManager><221.2629><242.9496><-398~-70~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><353.5723><190.8418><, ShelterBhvrSpawnPosition><423.6282><293.9087><, ShelterBhvrSpawnPosition><455.7371><168.9496><, BrokenShelterWaterLevel><499.861><176.1438><, ShelterBhvrNoTriggerZone><519.6849><136.8109><108~112, LightSource><480.1113><154.1662><0.4021739~Environment~-3~158~-225~283.6025~1~0~None~0~0, 
+AmbientSounds: SPOT><AM_IND-DeepHum.ogg><715.4461><308.4607><0.3152174><1><421.4461><428.4607><-185.3553><-106.3553><0><0.1, SPOT><AM_IND-Utility02.ogg><725.1617><465.3678><0.1847826><1><453.1617><246.3678><-71.35535><-54.35535><0><0.1, 
+FadePalette: 8, 0.3369565

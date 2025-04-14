@@ -1,0 +1,4 @@
+DangerType: FloodAndRain
+Palette: 17
+PlacedObjects: ShelterBhvrManager><-47.27051><267.9489><-135~18~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><509.4531><215.6944><, ShelterBhvrSpawnPosition><613.3004><198.5134><, ShelterBhvrSpawnPosition><358.149><220.6333><, ShelterBhvrNoTriggerZone><377.41><364.6299><110~119, BrokenShelterWaterLevel><430.8932><191.8309><, ShelterBhvrSpawnPosition><286.8681><195.4003><, 
+FadePalette: 21, 0.3913043

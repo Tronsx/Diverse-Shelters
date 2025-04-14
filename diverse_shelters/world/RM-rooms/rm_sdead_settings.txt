@@ -1,0 +1,6 @@
+Template: RM_SettingsTemplate_Dead
+EffectColorA: 18
+EffectColorB: 12
+PlacedObjects: LightFixture><514.9471><495.7839><RedLight~17.32051~-10~86, LightSource><514.1453><499.3625><0.09782609~EffectColor1~347~-259~52~53.60254~0~0~Fade~0.8478261~0, Corruption><660.4498><467.7583><0~100, Corruption><240.8631><559.6042><0~125, ShelterBhvrManager><127.428><267.5913><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><218.1332><469.1624><1^0, ShelterBhvrNoTriggerZone><203.2992><427.0562><103~118, ShelterBhvrNoTriggerZone><643.1833><224.42><97~142, ShelterBhvrSpawnPosition><350.9512><451.694><, ShelterBhvrSpawnPosition><558.0812><266.1072><, CorruptionTube><433.7609><357.9497><56~92, CorruptionTube><462.0715><317.5903><140~105, 
+AmbientSounds: OMNI><Deep Weird Wind.wav><835.9246><638.3475><0.02173913><0.1, OMNI><SO_SFX-Drowning.ogg><661.6912><640.9412><0.02173913><0.1, OMNI><SO_SFX-Heartbeat1.ogg><834.939><563.5596><0.02173913><0.1, OMNI><SO_SFX-Heartbeat2.ogg><832.1455><486.8628><0.01086957><0.1, 
+FadePalette: 10, 0.3478261

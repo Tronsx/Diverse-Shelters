@@ -1,0 +1,16 @@
+Template: CC_SettingsTemplate_Gutter
+DangerType: Rain
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.8695652
+Grime: 0.3586957
+Palette: 4
+PlacedObjects: BrokenShelterWaterLevel><464.8003><157.261><, ShelterBhvrManager><773.3355><130.8191><-45~175~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><172.9186><225.1424><, ShelterBhvrSpawnPosition><334.3453><221.6758><, ShelterBhvrSpawnPosition><220.5543><139.959><, ShelterBhvrSpawnPosition><290.2156><109.697><, 
+FadePalette: 21, 0.8804348
+WetTerrain: OFF

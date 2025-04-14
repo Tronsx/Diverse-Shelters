@@ -1,0 +1,16 @@
+Template: CL_SettingsTemplate_DarkSun
+DangerType: Rain
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 8.999999E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+EffectColorB: 21
+Effects: HeatWave-0.5652174-18-78, 
+PlacedObjects: LightFixture><690.4148><259.2528><RedLight~17.32051~-10~6, ShelterBhvrManager><139.8634><262.3961><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><578.8654><286.1479><111~158, ShelterBhvrSpawnPosition><245.6749><249.653><, ShelterBhvrSpawnPosition><492.3019><252.2773><, 
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><686.4766><557.0514><0.3478261><1.195652, SPOT><MSC-Subtundra.ogg><874.105><526.4202><0.3369565><1><1071.105><337.4202><-536.3552><32.64465><0><0.3826088, 
+FadePalette: 0, 0.3043478
+WetTerrain: OFF

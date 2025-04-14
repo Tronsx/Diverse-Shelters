@@ -1,0 +1,5 @@
+Clouds: 0.2826087
+Grime: 0.09782609
+Effects: BrokenZeroG-0-278-6, ZeroG-0.01086957-271-55, ElectricDeath-0.01086957-269-177, WaterDepth-0-271-112, 
+PlacedObjects: LightSource><238.8903><306.5455><0.08601512~Environment~830~-372~-310.9948~24.59805~1~1~None~0~0, SuperStructureFuses><359.9144><75.73935><182~61, SuperStructureFuses><606.9072><63.6799><143~73, LightSource><586.3019><525.7226><0.1086956~Environment~-599~4~-123~-204.3975~1~1~None~0~0, BrokenShelterWaterLevel><341.9878><227.7159><, ShelterBhvrManager><123.5479><267.6942><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><195.6078><163.3315><114~131, ShelterBhvrSpawnPosition><339.0895><415.3807><, ShelterBhvrSpawnPosition><578.365><416.8364><, ShelterBhvrSpawnPosition><763.5787><418.1469><, 
+FadePalette: 8, 0.2717391

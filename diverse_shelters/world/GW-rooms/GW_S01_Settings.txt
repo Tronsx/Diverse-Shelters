@@ -1,0 +1,7 @@
+Template: GW_SettingsTemplate_Inside
+DangerType: FloodAndRain
+Grime: 0.4021739
+BkgDroneVolume: 0.2769565
+PlacedObjects: ShelterBhvrManager><-65.82605><222.4013><-79~82~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><520.6466><246.4212><, ShelterBhvrNoTriggerZone><592.4728><209.8019><122~115, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><58.07574><357.1518><0.2391304><0.9413043><475.0757><99.15179><101.6447><312.6447><0><0.2086958, SPOT><waterGurgleLOOP1.wav><748.8686><280.9008><0.423913><0.7456522><494.8686><102.9008><-57.35535><-54.35535><0><0.2956523, OMNI><SO_WAT-MoreDrips.ogg><819.88><449.41><0.1521739><0.6478261, 
+FadePalette: 8, 0.2173913

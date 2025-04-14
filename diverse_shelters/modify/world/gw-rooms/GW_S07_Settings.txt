@@ -1,0 +1,8 @@
+[MERGE]
+DangerType: FloodAndRain
+Clouds: 0.2173913
+EffectColorA: 13
+PlacedObjects: ShelterBhvrManager><-147.5762><111.349><-20~182~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><716.0531><335.4428><, ShelterBhvrSpawnPosition><557.8067><83.1987><, ShelterBhvrSpawnPosition><641.5519><316.5569><, BrokenShelterWaterLevel><587.7><84.24944><, ShelterBhvrNoTriggerZone><619.4406><54.55905><119~108, 
+AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><456.6083><495.3912><0.1847826><1, DIR><AM_ENV-LightWind.ogg><740.9459><521.4597><0.173913><0.6869565><89.37498><0, 
+FadePalette: 8, 0.2826087
+[ENDMERGE]

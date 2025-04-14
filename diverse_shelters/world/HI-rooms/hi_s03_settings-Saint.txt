@@ -1,0 +1,14 @@
+Template: HI_SettingsTemplate_Inside
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.2717391
+RumbleIntensity: 0.2717391
+WaveSpeed: 0.5021405
+WaveLength: 0.930995
+WaveAmplitude: 0.01358695
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 0
+PlacedObjects: BrokenShelterWaterLevel><473.9116><445.8823><, ShelterBhvrManager><764.0522><203.5299><100~50~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><189.9955><469.7><1^0, 
+FadePalette: 20, 0.1521739
+WetTerrain: OFF

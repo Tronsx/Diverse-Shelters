@@ -1,0 +1,16 @@
+Template: VS_SettingsTemplate_Sewer
+DangerType: Rain
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 8.999999E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 1
+Effects: HeatWave-0.2391304-20-20, 
+PlacedObjects: ShelterBhvrManager><151.9334><262.8114><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><96.36774><177.4><90~109, ShelterBhvrNoTriggerZone><387.1418><175.4182><105~107, ShelterBhvrSpawnPosition><227.5115><213.1997><, ShelterBhvrSpawnPosition><349.9219><213.8977><, ShelterBhvrSpawnPosition><287.4482><169.2765><, ShelterBhvrPlacedDoor><87.44717><229.0335><1^0, 
+AmbientSounds: OMNI><AM_WIN-SubWnd.ogg><724.3123><641.6812><0.2173913><0.8434783, SPOT><so_wat-tapwater.ogg><712.899><504.8274><0.2826087><1><281.899><222.8274><-95.35535><-129.3553><0><0.1, 
+FadePalette: 10, 0.5
+WetTerrain: OFF

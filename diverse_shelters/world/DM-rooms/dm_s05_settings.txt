@@ -1,0 +1,4 @@
+Palette: 26
+PlacedObjects: LightFixture><504.2334><627.5946><RedLight~17.32051~-10~0, LightFixture><787.6033><259.3572><RedLight~-59.6795~172~72, LightFixture><338.3433><202.4799><RedLight~17.32051~-10~0, ShelterBhvrManager><92.63617><261.6454><-199~45~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><451.8204><292.9101><137~100, ShelterBhvrSpawnPosition><664.4577><455.1741><, ShelterBhvrSpawnPosition><419.0509><450.2686><, ShelterBhvrSpawnPosition><546.8458><411.0747><, ShelterBhvrPlacedDoor><513.4011><295.0335><0^1, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><800.6475><633.6718><0.3369565><1, OMNI><SO_NAT-WindTunnel.ogg><801.6251><561.3439><0.1847826><1, OMNI><SO_SFX-Drowning.ogg><804.8347><488.3625><0.2282609><1, 
+FadePalette: 10, 0.3478261

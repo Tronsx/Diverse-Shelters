@@ -1,0 +1,7 @@
+Template: GW_SettingsTemplate_Inside
+DangerType: FloodAndRain
+Grime: 0.2065217
+EffectColorB: 7
+PlacedObjects: ShelterBhvrSpawnPosition><643.5561><405.201><, ShelterBhvrSpawnPosition><573.3044><376.7082><, ShelterBhvrNoTriggerZone><237.0719><312.9366><163~118, BrokenShelterWaterLevel><496.6258><351.5945><, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><760.8157><456.3276><0.2717391><1><74.81567><338.3276><-207.3553><-73.35535><0><0.328261, OMNI><SO_WAT-LilDrips.ogg><732.3259><280.8484><0.1086956><1.352174, 
+FadePalette: 8, 0.6086956

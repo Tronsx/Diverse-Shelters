@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: FloodAndRain
+Clouds: 0.9021739
+Grime: 0.05434782
+BkgDroneVolume: 0
+Palette: 13
+Effects: ZeroG-0.2826087-153-66, WaterDepth-0.2608696-20-20, BrokenZeroG-0.9021739-25-74, 
+PlacedObjects: WallMycelia><691.5573><265.9464><20~58, WallMycelia><312.0764><334.6506><-26~74, ShelterSpawnPoint><871.669><385.6071><, WallMycelia><268.64><490.1429><29~-79, WallMycelia><826.2214><252.0522><-49~17, LightFixture><188.6674><398.4321><RedLight~-338.6795~102~58, LightFixture><519.6337><558.9127><RedLight~-687.6795~-144~51, SuperStructureFuses><365.2473><137.7><41~127, SuperStructureFuses><854.9047><184.3768><79~141, ShelterBhvrManager><-87.20245><-15.94427><-4~33~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><270.1907><329.809><, ShelterBhvrSpawnPosition><758.3569><241.831><, ShelterBhvrSpawnPosition><667.5544><465.2081><, BrokenShelterWaterLevel><447.8525><333.8649><, ShelterBhvrNoTriggerZone><484.4303><171.6634><121~155, SSLightRod><896.3052><520.9545><-387.6795~-18~0.6195652~315~187.3913~0.5, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><828.4357><648.0743><0.1630435><1, OMNI><SO_WAT-LilDrips.ogg><830.2277><571.0513><0.2608696><1, 
+FadePalette: 8, 0.7282609

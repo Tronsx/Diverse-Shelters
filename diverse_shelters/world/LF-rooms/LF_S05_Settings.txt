@@ -1,0 +1,5 @@
+DangerType: FloodAndRain
+Grime: 0.2065217
+PlacedObjects: ShelterBhvrManager><497.3051><272.9423><-621~-113~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><223.917><331.61><, ShelterBhvrSpawnPosition><360.7515><322.3><, ShelterBhvrSpawnPosition><436.3002><341.4922><, BrokenShelterWaterLevel><307.7915><342.3127><, ShelterBhvrTriggerZone><234.4401><423.5623><256~115, ShelterBhvrPlacedDoor><427.4478><532.4698><0^-1, ShelterBhvrPlacedDoor><245.2936><529.6952><0^-1, 
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><852.084><34.8185><0.2282609><0.2173913, OMNI><Basic Mech.ogg><850.8857><111.9141><0.1304348><0.3152174, SPOT><SO_IND-MechHum01.ogg><761.5671><160.8308><0.2934783><0.7456522><438.5671><-37.16919><-75.35535><143.6447><0><0.154348, 
+FadePalette: 0, 0.3043478

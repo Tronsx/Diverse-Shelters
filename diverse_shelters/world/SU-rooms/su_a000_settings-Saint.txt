@@ -1,0 +1,13 @@
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.4247854
+WaveLength: 0.9623927
+WaveAmplitude: 0.0004463188
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.5543478
+Grime: 0.2717391
+EffectColorB: 8
+PlacedObjects: DeadVultureGrub><538.604><272.1367><-108~-211~34~38, UniqueDataPearl><541.1819><346.938><-660~30~0~0~Misc~0, SnowSource><526.1746><352.9024><Radial~-16~197~204~-94.39746~0.6630435~1, SnowSource><631.6998><700.5097><Radial~-15~-161~1~-294.3975~0.7499998~1, SnowSource><468.3104><537.0637><Radial~0~114~-422~-88.39746~0.5760869~1, 
+FadePalette: 14, 0.2173913
+WetTerrain: OFF

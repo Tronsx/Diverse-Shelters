@@ -1,0 +1,6 @@
+Template: VS_SettingsTemplate_Filter
+Clouds: 0.9021739
+Palette: 21
+Effects: LightBurn-0.9021739-19-106, 
+PlacedObjects: ShelterBhvrManager><130.834><266.6384><437~40~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><185.1132><194.1459><119~75, ShelterBhvrSpawnPosition><206.029><311.9479><, ShelterBhvrSpawnPosition><308.6592><311.879><, LightBeam><218.6601><255.6199><-39~206~21~216~57~6~-338~-179~0.4434781~0~0~1~None~0~0, LightBeam><285><313><-28~190~0~195~34~6~-338~-179~0.4434781~0~0~1~None~0~0, LightSource><285.3152><305.6736><0.6304348~Environment~1~163~50~86.60254~1~0~None~0~0, LightSource><256.8038><412.7109><0.1521739~Environment~1~155~50~86.60254~1~1~None~0~0, 
+FadePalette: 8, 0.08695652

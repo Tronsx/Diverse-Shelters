@@ -1,0 +1,11 @@
+Template: HR_SettingsTemplate_HellUpper
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 10
+PlacedObjects: FairyParticleSettings><-97.55469><240.0576><109~-391.3398~1~7.065217~37.5~0~1~2.09349~60~180~40~100~0~19.56522~0~23.47826~0~0.09782609~1~1~0.4347826~0.5217391~0.7065217~0.2717391~9.51087~Leaf~SIN_IO~SIN_IO~77.82593~1~0.6521739, ShelterBhvrManager><81.7><268.9998><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><670.4063><320.6248><, ShelterBhvrSpawnPosition><781.2604><333.3003><, CellDistortion><615.8059><363.0483><-1101~517~-199~111.6025~1~0.1086956~0~0.0326087, ShelterBhvrNoTriggerZone><358.0864><295.6349><139~132, 
+FadePalette: 75, 0.2065217
+WetTerrain: OFF

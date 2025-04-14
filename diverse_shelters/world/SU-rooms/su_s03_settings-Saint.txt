@@ -1,0 +1,16 @@
+Template: SU_SettingsTemplate_Inside
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.2282609
+RumbleIntensity: 0.25
+WaveSpeed: 0.4999295
+WaveLength: 0.9428995
+WaveAmplitude: 0.01141304
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0.09782609
+EffectColorB: 6
+PlacedObjects: BrokenShelterWaterLevel><520.9219><169.6478><, ShelterBhvrPlacedDoor><382.9341><349.5781><1^0, ShelterBhvrPlacedDoor><385.632><165.9115><1^0, ShelterBhvrManager><46.45001><287.7485><-26~64~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><557.29><493.5541><, ShelterBhvrSpawnPosition><619.1027><225.3853><, ShelterBhvrSpawnPosition><555.1525><375.0754><, ShelterBhvrSpawnPosition><634.4473><168.4671><, ShelterBhvrSpawnPosition><698.3164><560.5613><, ShelterBhvrSpawnPosition><742.1815><435.3339><, 
+AmbientSounds: OMNI><Basic Mech.ogg><757.4195><162.8938><0.1521739><0.8630434, SPOT><Mech Basic.wav><764.8282><551.3976><0.4347826><0.7456522><295.8282><234.3976><-39.35535><-29.35535><0><0.4586958, OMNI><AM_ENV-Outside.ogg><764.0152><469.9494><0><1, 
+FadePalette: 10, 0.3913043
+WetTerrain: OFF

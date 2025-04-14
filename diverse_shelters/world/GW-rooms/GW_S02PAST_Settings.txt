@@ -1,0 +1,3 @@
+Palette: 11
+Effects: Darkness-0.2608696-12-72, HeatWave-0.2391304-15-132, 
+FadePalette: 34, 0.5760869

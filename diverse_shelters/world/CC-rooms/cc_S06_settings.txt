@@ -1,0 +1,6 @@
+Template: CC_SettingsTemplate_Gutter
+DangerType: Rain
+RainIntensity: 0
+RumbleIntensity: 0
+PlacedObjects: BrokenShelterWaterLevel><464.1852><301.8108><, ShelterBhvrSpawnPosition><263.1678><236.4323><, ShelterBhvrSpawnPosition><356.4122><286.133><, ShelterBhvrManager><-37.66064><251.9289><-51~69~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrTriggerZone><512.0848><270.0689><119~112, 
+FadePalette: 21, 0.6847826

@@ -1,0 +1,12 @@
+DangerType: Flood
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04971368
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0.25
+Palette: 11
+EffectColorB: 12
+PlacedObjects: ShelterBhvrManager><17.42328><75.34988><-157~174~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><823.0681><297.9168><, BrokenShelterWaterLevel><1068.969><235.0524><, ShelterBhvrNoTriggerZone><734.5627><368.3202><119~128, CGShelterRain><225.6935><271.9494><, CGDrySpot><581.1011><173.8665><100~50~337^501~True~None, ShelterBhvrSpawnPosition><882.0532><314.9428><, ShelterBhvrSpawnPosition><759.4667><294.1972><, BrokenShelterWaterLevel><631.9687><345.0524><, 
+AmbientSounds: SPOT><waterGurgleLOOP1.wav><84.00854><495.0502><0.1521739><1><699.0085><616.0502><-151.3553><-108.3553><0><0.328261, SPOT><AM_IND-Utility02.ogg><84.70758><380.3045><0.3152174><1><1051.708><239.3045><-182.3553><35.64465><0><0.3608697, SPOT><waterGurgleLOOP3.wav><362.3556><214.0801><0.1413043><0.726087><655.3556><-33.91986><-3.355347><75.64466><0><0.2086958, 
+FadePalette: 35, 0.6521739

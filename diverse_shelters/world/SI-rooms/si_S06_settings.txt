@@ -1,0 +1,4 @@
+Template: SI_SettingsTemplate_Inside
+Palette: 2
+PlacedObjects: ShelterBhvrManager><104.9229><264.6007><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><185.6638><353.5695><, ShelterBhvrNoTriggerZone><273.8922><348.0815><136~140, 
+FadePalette: 3, 0.5869565

@@ -1,0 +1,4 @@
+DangerType: FloodAndRain
+BkgDroneVolume: 0
+PlacedObjects: ShelterBhvrManager><-91.05005><122.9967><-59~86~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><329.3286><324.6839><, ShelterBhvrSpawnPosition><419.2><320.7485><, ShelterBhvrNoTriggerZone><291.4186><153.4327><158~131, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><824.1578><603.6229><0.4456522><0.8043478, OMNI><SO_WAT-LilDrips.ogg><647.1877><633.4311><0.2065217><1, 

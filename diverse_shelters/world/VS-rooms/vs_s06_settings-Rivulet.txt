@@ -1,0 +1,6 @@
+Template: VS_SettingsTemplate_Sewer
+Clouds: 1
+Palette: 35
+PlacedObjects: ShelterBhvrManager><140.6705><268.4335><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><83.38794><167.0844><101~103, ShelterBhvrNoTriggerZone><387.6885><171.4331><115~115, ShelterBhvrSpawnPosition><228.2336><204.8006><, ShelterBhvrSpawnPosition><345.0898><208.6787><, ShelterBhvrSpawnPosition><287.3287><172.6032><, ShelterBhvrPlacedDoor><98.82492><232.5967><1^0, 
+AmbientSounds: OMNI><AM_WIN-SubWnd.ogg><724.3123><641.6812><0.2173913><0.8434783, 
+FadePalette: 10, 0.5

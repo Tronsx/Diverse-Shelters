@@ -1,0 +1,7 @@
+Template: DM_SettingsTemplate_Leg
+DangerType: None
+Clouds: 1
+Palette: 35
+Effects: WaterDepth-0.2717391-276-78, 
+PlacedObjects: BrokenShelterWaterLevel><473.6095><295.9174><, ShelterBhvrManager><93.67805><268.9088><-170~44~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><306.028><230.698><127~152, ShelterBhvrSpawnPosition><559.1873><278.6796><, ShelterBhvrSpawnPosition><487.8006><277.765><, ShelterBhvrSpawnPosition><620.8294><280.8958><, 
+FadePalette: 17, 0.6739131

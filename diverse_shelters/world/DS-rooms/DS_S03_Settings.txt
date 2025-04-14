@@ -1,0 +1,4 @@
+DangerType: FloodAndRain
+Grime: 0
+PlacedObjects: LightFixture><191.9162><441.1816><RedLight~-367.6795~-11~99, LightFixture><766.9969><433.45><RedLight~-948.6795~75~92, ShelterBhvrManager><260.5898><270.9287><-454~-141~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><90.16937><224.6436><, ShelterBhvrSpawnPosition><264.194><235.7987><, ShelterBhvrNoTriggerZone><130.1982><348.7233><120~142, BrokenShelterWaterLevel><175.8198><155.4134><, ShelterBhvrPlacedDoor><185.6982><479.2767><0^-1, ShelterBhvrSpawnPosition><186.1473><208.8852><, 
+FadePalette: 8, 0.8586956

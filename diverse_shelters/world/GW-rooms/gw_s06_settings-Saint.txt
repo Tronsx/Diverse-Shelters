@@ -1,0 +1,16 @@
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.3695652
+RumbleIntensity: 0
+WaveSpeed: 0.4996668
+WaveLength: 0.9074421
+WaveAmplitude: 0.01847825
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 0
+EffectColorA: 13
+EffectColorB: 8
+PlacedObjects: ShelterBhvrManager><49.94995><339.745><99~-8~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><844.6985><282.3067><, ShelterBhvrSpawnPosition><769.0596><301.3112><, 
+AmbientSounds: SPOT><waterGurgleLOOP1.wav><722.0153><553.1994><0.1521739><1><727.0153><185.1994><-81.35535><-54.35535><0><0.1760871, OMNI><AM_ENV-NatWind.ogg><863.1548><641.4259><0.2282609><1, 
+FadePalette: 11, 0.2826087
+WetTerrain: OFF

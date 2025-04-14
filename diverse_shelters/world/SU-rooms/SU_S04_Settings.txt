@@ -1,0 +1,14 @@
+DangerType: FloodAndRain
+CeilingDrips: 0
+WaveSpeed: 0.5198553
+WaveLength: 0.7400724
+WaveAmplitude: 0.00509
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.8369565
+Grime: 0.3478261
+EffectColorA: 15
+PlacedObjects: LightSource><472.4442><467.2025><0.2065217~EffectColor1~-161~56~50~86.60254~1~0~None~0~0, ShelterBhvrManager><-21.40125><341.6309><-114~-289~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><149.9498><452.5078><1^0, ShelterBhvrPlacedDoor><468.9498><242.5091><0^1, ShelterBhvrNoTriggerZone><129.4096><386.8704><124~127, ShelterBhvrNoTriggerZone><408.2075><255.9454><120~103, ShelterBhvrSpawnPosition><284.6379><291.1052><, ShelterBhvrSpawnPosition><320.1599><411.1785><, ShelterBhvrSpawnPosition><579.3572><415.11><, ShelterBhvrSpawnPosition><439.3829><365.8378><, BrokenShelterWaterLevel><300.198><301.9717><, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><596.0987><152.6192><0.2717391><1, 
+FadePalette: 8, 0.5326087
+WetTerrain: OFF

@@ -1,0 +1,14 @@
+Template: SB_SettingsTemplate_Filter
+DangerType: Flood
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0
+Palette: 17
+EffectColorA: 19
+PlacedObjects: BrokenShelterWaterLevel><543.0063><361.5501><, LightFixture><412.7746><464.1985><RedLight~17.32051~-10~100, LightFixture><963.7654><369.8005><RedLight~17.32051~-10~13, SSLightRod><632.0521><278.4709><-26.6795~-238~0.1195652~90~270~0.326087, SSLightRod><626.1188><483.651><-289.6795~-335~0.1086956~90~319.5652~0.2826087, ShelterBhvrManager><-79.40753><204.3226><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><656.9913><354.0502><, ShelterBhvrSpawnPosition><498.7147><328.6968><, ShelterBhvrNoTriggerZone><332.2122><307.1964><118~117, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><847.6862><644.8104><0.3369565><1, OMNI><AM_ENV-SubTerr.ogg><846.9485><573.6932><0.3478261><1, 
+WetTerrain: OFF

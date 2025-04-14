@@ -1,0 +1,11 @@
+Template: NONE
+RumbleIntensity: 0
+Clouds: 0.9021739
+Grime: 0.25
+BkgDroneVolume: 0
+Palette: 19
+EffectColorA: 16
+EffectColorB: 18
+PlacedObjects: BrokenShelterWaterLevel><361.5596><159.9388><, ShelterBhvrManager><160.8087><266.808><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><396.5851><111.681><90~146, ShelterBhvrSpawnPosition><252.4501><150.2494><, ShelterBhvrSpawnPosition><191.0525><170.2191><, ShelterBhvrSpawnPosition><312.1091><175.1081><, 
+AmbientSounds: OMNI><SO_NAT-LilDrips.ogg><826.532><640.8026><0.2065217><1, OMNI><AM_SUB-BlankState.ogg><644.9576><640.0546><0.3152174><1, OMNI><AM_SUB-CaveTone.ogg><641.0848><552.6373><0.3043478><1, SPOT><SO_WAT-Splashes.ogg><747.3585><414.3913><0.1195652><1><208.3585><710.3914><430.6447><-229.3553><0><1, 
+FadePalette: 8, 0.6847826

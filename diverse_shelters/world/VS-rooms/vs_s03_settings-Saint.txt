@@ -1,0 +1,12 @@
+Template: VS_SettingsTemplate_Filter
+DangerType: Rain
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Effects: HeatWave-0.1413043-20-20, 
+PlacedObjects: LightFixture><268.7822><627.4474><RedLight~17.32051~-10~95, LightFixture><269.6999><171.7442><RedLight~17.32051~-10~77, ShelterBhvrManager><124.3895><268.8567><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><386.6283><428.6534><106~114, ShelterBhvrSpawnPosition><237.3478><450.0756><, ShelterBhvrSpawnPosition><162.4465><473.9628><, ShelterBhvrSpawnPosition><106.569><282.835><, ShelterBhvrSpawnPosition><213.4202><316.8949><, ShelterBhvrSpawnPosition><311.6572><326.8228><, 
+FadePalette: 34, 0.173913
+WetTerrain: OFF

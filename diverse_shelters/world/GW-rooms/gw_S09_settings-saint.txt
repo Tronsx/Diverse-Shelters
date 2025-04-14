@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 5.605194E-45
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0.2608696
+Palette: 0
+EffectColorA: 13
+PlacedObjects: BrokenShelterWaterLevel><463.8011><393.2717><, LightSource><492.6635><413.6153><1~EffectColor1~0~100~50~86.60254~1~0~None~0~0, LanternOnStick><622.95><462.2513><-16~-88, ShelterBhvrManager><117.3469><266.6213><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><499.2744><394.1985><, ShelterBhvrSpawnPosition><565.0679><417.8119><, ShelterBhvrSpawnPosition><649.8698><435.9018><, ShelterBhvrNoTriggerZone><290.5517><356.526><133~155, 
+FadePalette: 8, 0.7934783
+WetTerrain: OFF

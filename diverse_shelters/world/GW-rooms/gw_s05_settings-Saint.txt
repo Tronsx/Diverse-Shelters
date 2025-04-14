@@ -1,0 +1,15 @@
+Template: NONE
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 8.999999E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Grime: 0.2608696
+Palette: 4
+EffectColorA: 13
+PlacedObjects: ShelterBhvrManager><85.87894><270.6592><100~50~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><329.3744><431.6556><1^0, ShelterBhvrSpawnPosition><511.3394><415.6309><, ShelterBhvrSpawnPosition><601.1882><433.9402><, ShelterBhvrSpawnPosition><564.1727><278.8156><, 
+FadePalette: 11, 0.6413044
+WetTerrain: OFF

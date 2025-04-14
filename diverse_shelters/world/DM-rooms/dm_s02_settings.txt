@@ -1,0 +1,5 @@
+DangerType: None
+Effects: BrokenZeroG-0.4565217-30-30, ZeroG-0.3586957-30-83, 
+PlacedObjects: LightSource><853.7023><346.7849><0.2064368~Environment~-162~-304~-148~123.6025~0~0~None~0~0, LightFixture><115.6693><335.9124><RedLight~17.32051~-10~40, LightFixture><497.6279><431.1647><RedLight~17.32051~-10~10, ShelterBhvrManager><49.48152><309.0086><-110~-257~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><354.4928><280.8003><122~172, ShelterBhvrSpawnPosition><514.8651><331.9608><, ShelterBhvrSpawnPosition><651.372><331.4081><, ShelterBhvrSpawnPosition><792.9003><332.3965><, 
+AmbientSounds: OMNI><AM_IND-SuperStructure.ogg><851.639><632.1062><0.3695652><1, OMNI><AM_RAIN-RollingThunder.ogg><675.4443><629.0476><0.3478261><1, 
+FadePalette: 10, 0.4347826

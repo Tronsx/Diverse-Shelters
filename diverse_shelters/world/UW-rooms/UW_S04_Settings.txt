@@ -1,0 +1,5 @@
+Template: UW_SettingsTemplate_Wall
+DangerType: FloodAndRain
+Palette: 29
+PlacedObjects: ShelterBhvrManager><-69.93884><172.0658><-26~37~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><311.6107><540.3565><, ShelterBhvrSpawnPosition><307.9495><352.5145><, ShelterBhvrSpawnPosition><707.5566><349.551><, ShelterBhvrSpawnPosition><705.9127><539.8838><, ShelterBhvrNoTriggerZone><439.4247><210.9026><142~124, 
+FadePalette: 42, 0.06521739

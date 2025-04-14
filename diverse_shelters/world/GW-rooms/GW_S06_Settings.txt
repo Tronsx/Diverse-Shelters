@@ -1,0 +1,6 @@
+DangerType: FloodAndRain
+EffectColorA: 13
+EffectColorB: 8
+PlacedObjects: ShelterBhvrManager><-146.829><84.39629><-35~250~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><854.3825><277.3998><, ShelterBhvrSpawnPosition><763.6299><297.91><, BrokenShelterWaterLevel><831.1477><287.1719><, ShelterBhvrNoTriggerZone><718.8194><374.5861><112~118, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><833.6695><645.6062><0.1521739><0.7065217, OMNI><SO_WAT-DripTap.ogg><757.8718><308.6535><0.173913><0.7652174, SPOT><OM.wav><668.9478><165.22><0.25><1><766.9478><318.22><-99.35535><-53.35535><0><0.1, 
+FadePalette: 8, 0.2282609

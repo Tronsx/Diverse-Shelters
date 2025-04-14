@@ -1,0 +1,2 @@
+PlacedObjects: BrokenShelterWaterLevel><267.9417><224.3087><, ShelterBhvrManager><140.0454><264.3052><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><326.8391><160.3209><122~147, ShelterBhvrSpawnPosition><271.2169><262.0511><, ShelterBhvrSpawnPosition><180.302><263.5284><, ShelterBhvrSpawnPosition><189.4041><175.9255><, ShelterBhvrSpawnPosition><266.9089><178.5719><, 
+FadePalette: 3, 0.3913043

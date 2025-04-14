@@ -1,0 +1,8 @@
+DangerType: FloodAndRain
+Clouds: 1
+Grime: 0
+EffectColorA: 18
+Effects: ZeroG-0.1086956-251-68, 
+PlacedObjects: LightFixture><170.7216><579.4991><RedLight~504.5551~-181.8055~51, LightFixture><333.1545><310.5929><RedLight~358.3208~192.9972~57, ShelterBhvrManager><569.0267><108.0518><-111~-39~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><168.3044><115.7916><, ShelterBhvrSpawnPosition><330.3003><114.7393><, WallMycelia><244.3011><144.018><2~133, WallMycelia><54.69708><231.7155><0~100, WallMycelia><409.0638><605.4272><0~100, LightSource><505.3383><115.5866><0.8037998~Environment~-7~183~50~86.60254~1~0~None~0~0, SuperStructureFuses><-74.69183><221.3067><50~104, SuperStructureFuses><-65.64905><548.0806><42~93, ZapCoil><154.4826><368.0829><37~134, ZapCoil><309.2419><368.5502><41~142, LightFixture><170.9069><431.8787><ZapCoilLight~-81.6795~68~22, LightFixture><329.441><431.8754><ZapCoilLight~17.32051~-10~8, ShelterBhvrNoTriggerZone><453.728><230.4962><183~254, 
+AmbientSounds: OMNI><waterGurgleLOOP2.wav><654.7124><649.6964><0><1, OMNI><AM_IND-SuperStructure.ogg><478.6987><651.8066><0.2717391><1, 
+FadePalette: 10, 0.6630435

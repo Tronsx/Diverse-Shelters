@@ -1,0 +1,8 @@
+Template: SB_SettingsTemplate_Filter
+DangerType: FloodAndRain
+Clouds: 1
+Grime: 0
+Palette: 10
+PlacedObjects: LightFixture><494.3><75.2442><RedLight~17.32051~-10~79, LightFixture><762.5382><435.3037><RedLight~17.32051~-10~71, ShelterBhvrManager><23.80579><179.2978><-79~24~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><806.5773><236.1492><, ShelterBhvrSpawnPosition><393.552><234.278><, ShelterBhvrSpawnPosition><589.9109><235.1312><, BrokenShelterWaterLevel><485.8933><227.1395><, ShelterBhvrPlacedDoor><229.7897><246.554><1^0, ShelterBhvrNoTriggerZone><237.6495><192.6328><93~94, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><831.3393><631.821><0.3478261><1, 
+FadePalette: 8, 0.3804348

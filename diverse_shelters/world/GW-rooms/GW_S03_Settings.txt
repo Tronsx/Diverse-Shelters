@@ -1,0 +1,7 @@
+DangerType: Rain
+RainIntensity: 0.9021739
+Grime: 0.3152174
+EffectColorA: 5
+PlacedObjects: CustomDecal><969.5621><261.4314><-36~319~81~338~66~-79~-1069~-208~0.6304348~1~0~Rust2~0.4456522~1~0.4456522~1~0.4456522~1~0.4456522~1, ShelterBhvrManager><202.9567><16.30475><-320~348~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><807.3452><327.9258><, ShelterBhvrSpawnPosition><556.1186><305.9008><, BrokenShelterWaterLevel><608.5795><301.8165><, ShelterBhvrNoTriggerZone><307.3203><288.0878><138~118, CGShelterRain><382.4517><184.8059><, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><99.91217><371.883><0.423913><0.726087><639.9122><351.883><-220.3553><-125.3553><0><0.4152175, OMNI><SO_WAT-MoreDrips.ogg><49.85651><276.8307><0.1195652><0.6673913, OMNI><AM_ENV-WinterTrees.ogg><44.83331><484.3606><0.3586957><1, OMNI><AM_ENV-Outside.ogg><69.70789><187.3045><0.3586957><1, OMNI><SO_WAT-OpenFlow.ogg><83.73834><99.80034><0.2826087><1, 
+FadePalette: 8, 0.3152174

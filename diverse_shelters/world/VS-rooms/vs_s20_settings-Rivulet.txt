@@ -1,0 +1,5 @@
+EffectColorA: 5
+EffectColorB: 13
+PlacedObjects: BrokenShelterWaterLevel><390.09><438.37><, ShelterBhvrManager><118.4488><268.2278><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><458.5529><385.5336><114~142, ShelterBhvrSpawnPosition><358.0067><432.5501><, ShelterBhvrSpawnPosition><276.4409><329.691><, ShelterBhvrSpawnPosition><221.5964><352.9252><, ShelterBhvrSpawnPosition><363.8929><314.6399><, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><768.4536><459.4445><0.3913043><1><243.4536><275.4445><-221.3553><-94.35535><0><0.4260871, SPOT><SO_WAT-Splashes.ogg><770.5466><346.8055><0.2934783><1><350.5466><176.8055><-88.35535><-72.35535><0><0.3717393, 
+FadePalette: 8, 0.4891304

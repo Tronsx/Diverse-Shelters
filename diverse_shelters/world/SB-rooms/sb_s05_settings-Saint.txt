@@ -1,0 +1,14 @@
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.3043478
+RumbleIntensity: 0.2826087
+WaveSpeed: 0.4923426
+WaveLength: 0.9200844
+WaveAmplitude: 0.01521739
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+BkgDroneVolume: 0
+PlacedObjects: BrokenShelterWaterLevel><564.9544><54.19479><, ShelterBhvrManager><102.4085><268.0722><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><492.373><81.59229><, ShelterBhvrSpawnPosition><681.8683><73.08871><, ShelterBhvrSpawnPosition><550.3256><56.81485><, 
+AmbientSounds: OMNI><SO_NAT-LilDrips.ogg><826.532><640.8026><0.2065217><1, OMNI><AM_SUB-BlankState.ogg><644.9576><640.0546><0.3152174><1, OMNI><AM_SUB-CaveTone.ogg><641.0848><552.6373><0.3043478><1, 
+FadePalette: 0, 0.5217391
+WetTerrain: OFF

@@ -1,0 +1,9 @@
+WaveSpeed: 0.4989774
+WaveLength: 0.9994887
+WaveAmplitude: 0.07840026
+SecondWaveLength: 0.1775363
+SecondWaveAmplitude: 0
+Grime: 0.1521739
+Effects: Darkness-0.1630435-257-67, BrokenZeroG-0.1413043-256-123, ElectricDeath-0.01086957-249-12, 
+PlacedObjects: LightSource><95.38011><454.1167><0.06430651~Environment~441~-242~70.00002~-259.3975~1~1~None~0~0, SuperStructureFuses><289.6906><592.7187><419~54, SuperStructureFuses><289.8598><449.7995><273~47, ShelterBhvrManager><117.3008><266.0182><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><68.94415><189.452><118~94, ShelterBhvrSpawnPosition><103.4477><312.7798><, ShelterBhvrSpawnPosition><133.8371><439.32><, ShelterBhvrSpawnPosition><132.938><560.5578><, 
+FadePalette: 13, 0.1956522

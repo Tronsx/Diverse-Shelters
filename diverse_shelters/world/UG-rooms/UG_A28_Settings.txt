@@ -1,0 +1,11 @@
+DangerType: Blizzard
+RainIntensity: 0.5652174
+WaveSpeed: 0.4976127
+WaveLength: 0.8983389
+WaveAmplitude: 0.02826116
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+EffectColorA: 2
+EffectColorB: 1
+PlacedObjects: UniqueDataPearl><315.0699><305.4129><-60~149~0~0~Misc~0, SnowSource><485.953><466.5556><Radial~17~-234~50~86.60254~0.9673913~1, 
+FadePalette: 0, 0.2173913

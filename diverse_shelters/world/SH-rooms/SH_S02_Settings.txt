@@ -1,0 +1,10 @@
+DangerType: FloodAndRain
+WaveSpeed: 0.5331938
+WaveLength: 0.9834031
+WaveAmplitude: 2.457352E-05
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+BkgDroneVolume: 0
+EffectColorA: 13
+PlacedObjects: LanternOnStick><529.8407><602.121><-84~68, ShelterBhvrManager><-32.32166><216.4367><-119~51~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><211.8966><465.9212><1^0, ShelterBhvrSpawnPosition><631.8843><434.9131><, ShelterBhvrSpawnPosition><654.0822><210.9323><, ShelterBhvrSpawnPosition><423.6199><452.9019><, CosmeticSlimeMold><419.8435><204.1768><-1~82, LightFixture><420.6627><206.3837><SlimeMoldLight~4.320496~-226~31, LightFixture><467.7086><253.4457><SlimeMoldLight~-48.6795~-189~43, BrokenShelterWaterLevel><526.5716><444.1596><, BrokenShelterWaterLevel><492.5716><342.1596><, ShelterBhvrNoTriggerZone><208.3263><392.1509><136~132, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><773.9447><562.7042><0.2934783><0.9021739, 

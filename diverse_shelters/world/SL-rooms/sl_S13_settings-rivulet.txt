@@ -1,0 +1,9 @@
+Template: NONE
+Clouds: 0.7173913
+Grime: 0.05434782
+Palette: 29
+EffectColorA: 2
+Effects: WaterDepth-0.1847826-20-20, 
+PlacedObjects: BrokenShelterWaterLevel><478.4656><176.697><, ShelterBhvrSpawnPosition><425.0131><178.0504><, ShelterBhvrSpawnPosition><306.7><204.9994><, ShelterBhvrNoTriggerZone><527.3175><133.9183><122~107, ShelterBhvrManager><64.6442><252.3614><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><770.7397><385.9497><0.423913><1><727.7397><177.9497><-138.3553><-69.35535><0><0.2847827, 
+FadePalette: 8, 0.2826087

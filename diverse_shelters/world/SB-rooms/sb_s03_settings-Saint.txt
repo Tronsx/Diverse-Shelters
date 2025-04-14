@@ -1,0 +1,15 @@
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Palette: 17
+EffectColorA: 21
+EffectColorB: 19
+PlacedObjects: BrokenShelterWaterLevel><708.4922><61.9498><, LightFixture><406.6302><235.3482><RedLight~-232.6795~119~8, LightFixture><975.6356><244.353><RedLight~-798.6795~215~6, ShelterBhvrManager><129.4231><265.4346><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><872.9133><81.81976><, ShelterBhvrSpawnPosition><871.0945><212.1763><, ShelterBhvrSpawnPosition><870.8979><351.172><, ShelterBhvrSpawnPosition><550.9641><351.8033><, ShelterBhvrSpawnPosition><548.0938><208.1767><, ShelterBhvrSpawnPosition><553.9352><70.81078><, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><822.4802><639.051><0.3695652><1, OMNI><AM_SUB-BlankState.ogg><649.3596><639.1674><0.3152174><1, 
+FadePalette: 21, 0.1956522
+WetTerrain: OFF

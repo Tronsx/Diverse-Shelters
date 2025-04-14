@@ -1,0 +1,6 @@
+Template: HI_SettingsTemplate_Inside
+DangerType: FloodAndRain
+Clouds: 0.7282609
+PlacedObjects: ShelterBhvrManager><480.4201><379.8167><-39~-8~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><131.6155><134.5867><, ShelterBhvrSpawnPosition><205.6816><495.4163><, ShelterBhvrSpawnPosition><274.3952><127.6125><, ShelterBhvrSpawnPosition><207.1591><252.8787><, ShelterBhvrNoTriggerZone><319.9225><298.1844><105~121, LightSource><211.1224><188.1541><0.6086956~Environment~0~100~50~86.60254~1~0~None~0~0, BrokenShelterWaterLevel><210.4443><129.6921><, 
+AmbientSounds: OMNI><AM_IND-Utility02.ogg><737.8163><457.5613><0><1, OMNI><AM_IND-Warehouse01.ogg><734.8168><532.9199><0.173913><0.7456522, OMNI><AM_IND-Utility04.ogg><38.06659><408.5797><0.2173913><0.2369565, OMNI><SO_WAT-LilDrips.ogg><38.04993><489.4437><0.1304348><0.4326087, SPOT><AM_IND-Utility04.ogg><28.46008><279.304><0.25><0.3934783><209.4601><216.304><6.644653><40.64465><0><0.2956522, 
+FadePalette: 20, 0.2934783

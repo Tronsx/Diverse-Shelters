@@ -1,0 +1,5 @@
+Template: VS_SettingsTemplate_Sewer
+Clouds: 1
+PlacedObjects: BrokenShelterWaterLevel><238.8201><208.4128><, ShelterBhvrManager><101.6929><230.9471><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><98.17947><170.0883><97~112, ShelterBhvrSpawnPosition><228.6164><214.6489><, ShelterBhvrSpawnPosition><287.4761><173.9486><, ShelterBhvrSpawnPosition><346.6603><208.8696><, ShelterBhvrPlacedDoor><89.55521><229.9547><1^0, 
+AmbientSounds: OMNI><AM_WIN-SubWnd.ogg><724.3123><641.6812><0.2173913><0.8434783, SPOT><so_wat-tapwater.ogg><727.3758><506.3445><0.3043478><1><291.3758><225.3445><-128.3553><-105.3553><0><0.1, 
+FadePalette: 10, 0.5

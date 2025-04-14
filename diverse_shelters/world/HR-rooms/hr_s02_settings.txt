@@ -1,0 +1,16 @@
+Template: HR_SettingsTemplate_HellNew
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.9130435
+Grime: 0
+Palette: 17
+EffectColorA: 15
+EffectColorB: 13
+Effects: Bloom-0.5543478-440-214, Darkness-0-547-130, 
+PlacedObjects: LightSource><396.8049><208.9561><0.1521739~EffectColor2~-114~49~-372~-209.3975~0~0~None~0~0, ShelterBhvrManager><94.80935><262.3104><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><259.1941><147.2984><100~101, ShelterBhvrSpawnPosition><673.1531><190.6749><, ShelterBhvrSpawnPosition><616.449><213.7305><, ShelterBhvrSpawnPosition><513.1999><176.494><, ShelterBhvrSpawnPosition><457.1226><198.6581><, FairyParticleSettings><131.1996><115.2374><5~8.660254~1~7.065217~37.5~0~1~2.09349~60~180~40~100~0~19.56522~0~23.47826~0~0.09782609~1~1~0.4347826~0.5217391~0.7065217~0.2717391~9.51087~Leaf~SIN_IO~SIN_IO~77.82593~1~0.6521739, 
+FadePalette: 39, 0.08695652
+WetTerrain: OFF

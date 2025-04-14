@@ -1,0 +1,11 @@
+Template: DM_SettingsTemplate_Leg
+RainIntensity: 1
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 1.873311E-34
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 1
+Effects: ZeroGSpecks-1-34-74, GreenSparks-0.2826087-34-120, ElectricDeath-0.6086956-273-21, 
+PlacedObjects: ShelterBhvrManager><83.56036><265.215><-70.03558~53.01468~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><663.6692><300.6259><123~89, ShelterBhvrSpawnPosition><684.7333><433.9435><, ShelterBhvrSpawnPosition><804.9719><430.747><, 
+FadePalette: 17, 0.8043478

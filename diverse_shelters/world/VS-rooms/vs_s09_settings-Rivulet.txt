@@ -1,0 +1,4 @@
+Palette: 27
+Effects: Contrast-0.0326087-20-20, Hue-0.9456522-16-84, Desaturation-0.2391304-22-139, Darkness-0.2065217-274-142, 
+PlacedObjects: ShelterBhvrManager><134.0479><267.6942><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><327.4995><168.7><117~133, ShelterBhvrSpawnPosition><271.3995><264.3672><, ShelterBhvrSpawnPosition><185.9494><264.9853><, ShelterBhvrSpawnPosition><259.682><173.9381><, ShelterBhvrSpawnPosition><193.4959><174.05><, 
+FadePalette: 3, 0.4347826
