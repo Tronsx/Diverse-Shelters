@@ -6,5 +6,5 @@ SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 EffectColorA: 18
 Effects: ElectricDeath-0.02173913-21-79, 
-PlacedObjects: ShelterBhvrManager><-11.30811><163.8062><-134~57~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><305.3266><379.3497><, ShelterBhvrSpawnPosition><373.4465><357.0569><, ShelterBhvrSpawnPosition><542.6074><367.4135><, ShelterBhvrNoTriggerZone><409.8031><212.4429><122~115, 
+PlacedObjects: ShelterBhvrManager><-11.30811><163.8062><-134~57~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><439.3378><404.3126><, ShelterBhvrSpawnPosition><375.3581><433.0769><, ShelterBhvrSpawnPosition><529.6006><404.4903><, ShelterBhvrNoTriggerZone><406.7798><253.4223><122~115, ShelterBhvrPlacedDoor><471.9159><248.6382><0^1, LightSource><440.6046><506.5418><0.5217275~Environment~-3~125~-388.9742~-266.4301~0~0~None~0~0, 
 FadePalette: 17, 0.4782609
