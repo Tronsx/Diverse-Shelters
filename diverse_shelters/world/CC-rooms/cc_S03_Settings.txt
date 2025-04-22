@@ -1,4 +1,4 @@
-Template: CC_SettingsTemplate_Inside
+Template: cc_settingstemplate_inside
 EffectColorB: 2
-PlacedObjects: ShelterBhvrManager><-24.11993><306.34><-59~-15~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><785.3362><147.8195><, ShelterBhvrSpawnPosition><593.4088><325.1216><, ShelterBhvrSpawnPosition><288.3582><323.1682><, ShelterBhvrPlacedDoor><185.0587><186.8083><1^0, BrokenShelterWaterLevel><570.0511><167.5214><, ShelterBhvrNoTriggerZone><177.3762><122.6551><125~128, ShelterBhvrSpawnPosition><288.1915><474.0577><, ShelterBhvrSpawnPosition><596.0991><473.3263><, 
+PlacedObjects: ShelterBhvrManager><-34.11993><310.34><-118~-4~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><661.3362><140.8195><, ShelterBhvrSpawnPosition><593.4088><325.1216><, ShelterBhvrSpawnPosition><288.3582><323.1682><, ShelterBhvrPlacedDoor><185.0587><186.8083><1^0, ShelterBhvrNoTriggerZone><177.3762><122.6551><125~128, ShelterBhvrSpawnPosition><288.1915><474.0577><, ShelterBhvrSpawnPosition><596.0991><473.3263><, BrokenShelterWaterLevel><570.0511><155.5214><, ShelterBhvrPlacedDoor><875.0638><165.927><-1^0, 
 FadePalette: 8, 0.3804348
