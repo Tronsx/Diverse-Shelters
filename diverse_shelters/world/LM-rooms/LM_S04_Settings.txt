@@ -3,6 +3,6 @@ DangerType: FloodAndRain
 Clouds: 0
 Grime: 0.3369565
 Palette: 35
-PlacedObjects: ShelterBhvrManager><-9.514587><176.9495><-46~65~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><694.4075><200.6773><, ShelterBhvrSpawnPosition><591.6475><201.6718><, ShelterBhvrNoTriggerZone><394.7232><154.0518><138~142, 
-AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><569.4399><574.6873><0.1847826><1, SPOT><SO_WAT-LightFlow.ogg><712.8898><292.5831><0.5><1><488.8898><281.5831><-79.35535><-80.35535><0><0.1, 
+PlacedObjects: ShelterBhvrManager><-9.514587><176.9495><-46~65~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><708.4075><207.6773><, ShelterBhvrSpawnPosition><571.6475><205.6718><, ShelterBhvrNoTriggerZone><394.7232><154.0518><138~142, ShelterBhvrSpawnPosition><708.447><414.7156><, ShelterBhvrSpawnPosition><563.4469><412.7851><, 
+AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><569.4399><574.6873><0.1847826><1, SPOT><basic mech.ogg><801.1447><404.6119><0.1086956><1><638.1447><328.6119><-73.35535><-108.3553><0><0.1, SPOT><watergurgleloop1.wav><536.7738><303.0514><0.3043478><1><370.7738><218.0514><-113.3553><-99.35535><0><0.1, 
 FadePalette: 11, 0.1195652

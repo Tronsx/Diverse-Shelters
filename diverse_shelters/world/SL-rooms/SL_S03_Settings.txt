@@ -1,7 +1,8 @@
 Template: NONE
 DangerType: FloodAndRain
-Grime: 0.1956522
+Grime: 0
 Palette: 34
-PlacedObjects: ShelterBhvrManager><-28.63892><115.8561><-38~59~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><751.8442><334.8746><, ShelterBhvrSpawnPosition><553.8652><489.6478><, ShelterBhvrSpawnPosition><552.0702><580.5875><, ShelterBhvrSpawnPosition><752.9021><417.1202><, ShelterBhvrNoTriggerZone><395.0713><248.6869><283~194, 
-AmbientSounds: SPOT><waterGurgleLOOP1.wav><783.5607><547.5594><0.2173913><1><471.5607><226.5594><-131.3553><-64.35535><0><0.1978262, SPOT><SO_IND-MechHum02.ogg><497.4251><540.9034><0.2282609><1><635.4251><305.9034><-147.3553><-99.35535><0><0.2195653, SPOT><SO_WAT-LightFlow.ogg><736.4479><294.2211><0.3695652><1><474.4479><257.2211><-105.3553><175.6447><0><0.1, OMNI><SO_WAT-LilDrips.ogg><649.4422><668.9446><0.2934783><1, 
+Effects: Fog-0.6195652-20-20, 
+PlacedObjects: ShelterBhvrManager><-28.63892><115.8561><-38~59~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><394.8442><453.8746><, ShelterBhvrSpawnPosition><522.8652><454.6478><, ShelterBhvrSpawnPosition><188.0702><576.5875><, ShelterBhvrSpawnPosition><669.9021><536.1202><, ShelterBhvrNoTriggerZone><395.0713><248.6869><140~174, ShelterBhvrNoTriggerZone><36.77563><465.6984><89~197, ShelterBhvrNoTriggerZone><717.2478><460.7><84~150, ShelterBhvrPlacedDoor><809.6919><544.5563><-1^0, ShelterBhvrPlacedDoor><20.30014><584.4926><1^0, 
+AmbientSounds: SPOT><waterGurgleLOOP1.wav><783.5607><547.5594><0.2173913><1><466.5607><256.5594><-131.3553><-64.35535><0><0.1978262, SPOT><SO_IND-MechHum02.ogg><497.4251><540.9034><0.1521739><1><455.4251><592.9034><-142.3553><-99.35535><0><0.2195653, OMNI><SO_WAT-LilDrips.ogg><649.4422><668.9446><0.2934783><1, SPOT><so_wat-openflow.ogg><728.5833><411.1395><0.2065217><1><468.5833><190.1395><-75.35535><-103.3553><0><0.1, 
 FadePalette: 8, 0.3369565
