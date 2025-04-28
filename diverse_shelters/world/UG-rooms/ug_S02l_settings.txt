@@ -1,8 +1,8 @@
 DangerType: Rain
 RainIntensity: 0
 RumbleIntensity: 0
-Clouds: 1
-Palette: 8
-PlacedObjects: BrokenShelterWaterLevel><381.3615><243.4161><, ShelterBhvrManager><111.5814><266.9327><-130~-39~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><731.8669><508.9122><, ShelterBhvrSpawnPosition><740.357><393.3898><, ShelterBhvrSpawnPosition><734.1105><269.9167><, ShelterBhvrSpawnPosition><544.4762><293.9486><, ShelterBhvrNoTriggerZone><210.6169><214.6623><145~140, 
-AmbientSounds: OMNI><AM_ENV-LushNight.ogg><843.4801><499.449><0.1956522><1, OMNI><AM_IND-Utility02.ogg><837.3013><645.9775><0><1, OMNI><SO_IND-HeatDuct.ogg><840.5117><572.3004><0><1, 
-FadePalette: 11, 0.6521739
+Clouds: 0.07608695
+Palette: 4
+PlacedObjects: BrokenShelterWaterLevel><381.3615><243.4161><, ShelterBhvrManager><111.5814><266.9327><-130~-39~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><689.8669><333.9122><, ShelterBhvrSpawnPosition><640.357><442.3898><, ShelterBhvrSpawnPosition><463.1105><252.9167><, ShelterBhvrSpawnPosition><544.4762><293.9486><, ShelterBhvrNoTriggerZone><210.6169><214.6623><145~140, ShelterBhvrSpawnPosition><477.5871><494.134><, 
+AmbientSounds: OMNI><AM_ENV-LushNight.ogg><843.4801><499.449><0.3695652><1, OMNI><AM_IND-Utility02.ogg><837.3013><645.9775><0><1, OMNI><SO_IND-HeatDuct.ogg><840.5117><572.3004><0><1, 
+FadePalette: 11, 0.5108696

@@ -7,8 +7,9 @@ WaveLength: 1
 WaveAmplitude: 5.605194E-45
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
+EffectColorB: 2
 Effects: HeatWave-0-275-23, Fog-0-279-80, Flies-0-17-81, Darkness-0.3478261-242-153, 
-PlacedObjects: BrokenShelterWaterLevel><447.198><363.7213><, ShelterBhvrManager><-62.07648><147.6506><100~50~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><163.8874><407.6653><1^0, ShelterBhvrSpawnPosition><338.4958><375.05><, ShelterBhvrSpawnPosition><471.5938><352.6248><, ShelterBhvrSpawnPosition><604.6626><369.6164><, ExitSymbolHidden><693.0591><430.6905><, ShelterBhvrNoTriggerZone><159.9065><352.5732><119~108, ShelterBhvrNoTriggerZone><647.8062><347.2007><103~128, 
+PlacedObjects: BrokenShelterWaterLevel><452.198><408.7213><, ShelterBhvrManager><-62.07648><147.6506><100~50~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><163.8874><431.6653><1^0, ShelterBhvrSpawnPosition><356.4958><400.05><, ShelterBhvrSpawnPosition><518.5938><401.6248><, ShelterBhvrSpawnPosition><452.6626><411.6164><, ExitSymbolHidden><706.0591><430.6905><, ShelterBhvrNoTriggerZone><155.9065><373.5732><119~108, ShelterBhvrNoTriggerZone><615.8062><343.2007><129~162, ShelterBhvrPlacedDoor><709.0639><430.8232><-1^0, 
 AmbientSounds: OMNI><AM_IND-Utility02.ogg><837.3013><645.9775><0><1, OMNI><SO_IND-HeatDuct.ogg><819.5117><569.3004><0><1, SPOT><AM_ENV-NatWind.ogg><809.9034><452.3716><0.326087><1><103.9034><493.3716><250.6447><-76.35535><0><0.9804349, 
 FadePalette: 0, 0.326087
 WetTerrain: OFF

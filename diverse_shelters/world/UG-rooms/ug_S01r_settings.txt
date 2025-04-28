@@ -7,12 +7,12 @@ WaveLength: 1
 WaveAmplitude: 8.099999E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
-Clouds: 1
+Clouds: 0.07608695
 Grime: 0.2717391
 Palette: 8
 EffectColorB: 2
 Effects: HeatWave-0.326087-294-19, 
-PlacedObjects: BlinkingFlower><225.8269><413.1846><, BlinkingFlower><386.09><383.8214><, BlinkingFlower><340.161><405.3814><, ShelterBhvrSpawnPosition><312.1989><212.0214><, ShelterBhvrSpawnPosition><364.9276><333.1864><, ShelterBhvrSpawnPosition><173.8026><372.0324><, ShelterBhvrManager><-51.18683><225.9398><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><459.7828><308.9473><134~112, 
+PlacedObjects: BlinkingFlower><167.8269><351.1846><, BlinkingFlower><441.09><364.8214><, BlinkingFlower><379.161><394.3814><, ShelterBhvrSpawnPosition><171.1989><454.0214><, ShelterBhvrSpawnPosition><436.9276><357.1864><, ShelterBhvrSpawnPosition><181.8026><359.0324><, ShelterBhvrManager><-51.18683><225.9398><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><484.7828><312.9473><134~112, 
 AmbientSounds: SPOT><AM_ENV-LushNight.ogg><822.8156><459.3274><0.3478261><1><835.8156><412.3274><-175.3553><-104.3553><0><0.3717393, 
-FadePalette: 11, 0.5543478
+FadePalette: 11, 0.7065217
 WetTerrain: OFF

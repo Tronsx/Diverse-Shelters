@@ -1,7 +1,12 @@
 DangerType: FloodAndRain
-Clouds: 1
+WaveSpeed: 0.5010109
+WaveLength: 0.9994946
+WaveAmplitude: 2.748862E-09
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.07608695
 Grime: 0.2717391
 EffectColorA: 3
 EffectColorB: 13
-PlacedObjects: ShelterBhvrManager><463.6972><237.5338><53~-286~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><228.6069><193.8309><, ShelterBhvrSpawnPosition><331.5378><191.1964><, BrokenShelterWaterLevel><246.801><211.7297><, ShelterBhvrNoTriggerZone><470.182><319.8328><115~101, 
+PlacedObjects: ShelterBhvrManager><463.6972><237.5338><53~-286~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><172.6069><355.8309><, ShelterBhvrSpawnPosition><173.5378><455.1964><, ShelterBhvrNoTriggerZone><491.182><319.8328><115~101, BrokenShelterWaterLevel><438.801><312.7297><, ShelterBhvrSpawnPosition><357.0222><459.9488><, ShelterBhvrSpawnPosition><388.6046><376.5796><, 
 FadePalette: 8, 0.3804348

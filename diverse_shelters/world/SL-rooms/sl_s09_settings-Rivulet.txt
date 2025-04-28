@@ -1,7 +1,7 @@
-Template: SL_SettingsTemplate_Sewer
+Template: sl_settingstemplate_sewer
 Clouds: 1
 Grime: 0.1956522
 Effects: Darkness-0.1956522-29-74, Contrast-0-31-136, 
-PlacedObjects: BrokenShelterWaterLevel><434.6976><487.2811><, 
+PlacedObjects: BrokenShelterWaterLevel><442.6976><479.2811><, ShelterBhvrSpawnPosition><494.8739><491.157><, ShelterBhvrSpawnPosition><567.7274><470.1987><, ShelterBhvrSpawnPosition><318.8019><475.8069><, ShelterBhvrNoTriggerZone><589.304><429.0396><118~121, ShelterBhvrNoTriggerZone><129.4126><412.8201><113~153, ShelterBhvrPlacedDoor><129.6829><489.0809><1^0, ShelterBhvrPlacedDoor><717.4819><488.8008><-1^0, CustomDecal><363.7888><301.6962><-2~318~124~322~131~-4~-330~-263~0~1~0~rustb2~0.6195652~1~0.8695652~1~0.6739131~1~0.5~1, ShelterBhvrManager><155.7862><263.1967><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, 
 AmbientSounds: SPOT><waterGurgleLOOP1.wav><69.84149><493.3781><0.3804348><1><279.8415><549.3781><-70.35535><-44.35535><0><0.2413045, SPOT><AM_IND-Utility02.ogg><126.1902><342.5618><0.5><1><551.1902><599.5618><-62.35535><-52.35535><0><0.1869565, 
 FadePalette: 35, 0.6195652
