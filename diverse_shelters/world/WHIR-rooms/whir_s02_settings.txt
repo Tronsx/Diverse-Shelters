@@ -1,0 +1,7 @@
+DangerType: Flood
+BkgDroneVolume: 0
+Palette: 466
+Effects: Sentient Rot Spores-1-100-67, 
+PlacedObjects: ShelterBhvrManager><64.5558><288.0478><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><392.3865><484.3353><138~134, ShelterBhvrSpawnPosition><478.1929><323.9471><, ShelterBhvrSpawnPosition><580.8012><320.0219><, ShelterBhvrSpawnPosition><359.3005><323.0135><, PassiveCorruption><341.1553><137.1261><0~100~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, PassiveCorruption><684.1997><111.7615><0~100~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, PassiveCorruption><509.8083><117.8069><0~100~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, Corruption><657.1516><466.9241><4~64, 
+AmbientSounds: SPOT><Basic Mech.ogg><841.1473><317.4104><0.1740086><0.5519775><472.6788><460.4104><-41.35535><-46.35535><0><0.4478262, 
+FadePalette: 10, 0.2932394

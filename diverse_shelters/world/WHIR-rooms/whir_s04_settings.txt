@@ -1,0 +1,4 @@
+DangerType: Flood
+Effects: Sentient Rot Spores-1-135-79, 
+PlacedObjects: ShelterBhvrManager><98.55954><270.439><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><328.05><297.7454><96~106, ShelterBhvrSpawnPosition><208.4886><254.4497><, ShelterBhvrSpawnPosition><208.3087><500.0588><, ShelterBhvrSpawnPosition><158.9423><138.4449><, LightSource><208.5986><197.174><0.2065217~Environment~-2~89~50~86.60254~1~0~None~0~0, PassiveCorruption><205.867><558.1622><-1~51~-327~-296~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, PassiveCorruption><286.1877><87.43106><0~100~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, Corruption><141.0659><47.17197><1~55, 
+FadePalette: 10, 0.2934783

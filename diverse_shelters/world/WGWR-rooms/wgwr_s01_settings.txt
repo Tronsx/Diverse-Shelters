@@ -1,0 +1,5 @@
+BkgDroneVolume: 0.2769565
+Effects: Sentient Rot Spores-1-139-66, 
+PlacedObjects: ShelterBhvrManager><100.2909><267.6958><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><527.435><247.1741><, ShelterBhvrNoTriggerZone><603.9471><211.5337><120~115, PassiveCorruption><628.9479><413.2793><0~100~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><60.07574><506.1518><0.1857376><0.4738017><493.0757><306.1518><-83.35535><-75.35535><0><0.2086958, 
+FadePalette: 10, 0.2272583

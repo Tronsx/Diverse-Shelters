@@ -1,0 +1,5 @@
+Palette: 466
+Effects: Sentient Rot Spores-1-203-97, 
+PlacedObjects: ShelterBhvrManager><106.8452><267.6266><-188~-6~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><433.3647><225.8362><112~110, ShelterBhvrSpawnPosition><709.4233><355.1847><, ShelterBhvrSpawnPosition><577.683><351.0807><, ShelterBhvrSpawnPosition><381.6188><345.8391><, PassiveCorruption><282.6875><297.4304><0~100~-311~-227~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, PassiveCorruption><584.3998><393.8675><-4~79~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, PassiveCorruption><487.8528><562.3285><0~100~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, PassiveCorruption><289.0251><549.9484><0~100~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, PassiveCorruption><733.5485><519.806><0~100~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, 
+AmbientSounds: OMNI><AM_IND-Warehouse01.ogg><806.8074><416.3084><0.3478261><0.4535484, SPOT><Basic Mech.ogg><727.8119><163.0679><0.1847826><0.7664199><480.8119><239.0679><-54.35535><-43.35535><0><0.3391306, 
+FadePalette: 10, 0.2937647

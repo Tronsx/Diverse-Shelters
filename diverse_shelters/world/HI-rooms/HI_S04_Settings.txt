@@ -1,4 +1,4 @@
-Template: HI_SettingsTemplate_Inside
+Template: hi_settingstemplate_inside
 DangerType: FloodAndRain
 Clouds: 0.7282609
 PlacedObjects: ShelterBhvrManager><480.4201><379.8167><-39~-8~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><131.6155><134.5867><, ShelterBhvrSpawnPosition><205.6816><495.4163><, ShelterBhvrSpawnPosition><274.3952><127.6125><, ShelterBhvrSpawnPosition><207.1591><252.8787><, ShelterBhvrNoTriggerZone><319.9225><298.1844><105~121, LightSource><211.1224><188.1541><0.6086956~Environment~0~100~50~86.60254~1~0~None~0~0, BrokenShelterWaterLevel><210.4443><129.6921><, 
