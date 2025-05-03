@@ -2,7 +2,7 @@
   "Title": "Diverse Shelters",
   "Description": "A mod that is a port from the previous version called Better Shelters, it changes the visuals of all shelters in vanilla regions this also includes the new regions added by Downpour.\r\n\r\nContains colored pearls\r\n\r\nNote 1: Stay still for a while if you are not using OSHA Complaint Shelter to make it close (Might need to hold down to hibernate).\r\n\r\nNote 2: It is recommended hold down if you are using OSHA Complaint Shelter, it is no longer a requirement to play  the mod  withDiverse Shelters.\r\n\r\nNote 3: Some shelters in Outer Expanse weren\u0027t changed because those are already big/unique, and another one that does have missing files, making it unavailable to modify.\r\n\r\nP.D: Thanks to Bro for helping fixing some issues related to world editing.\r\n\r\nIf you find any issues with the mod, you can report them in the discussion Bug Reports and i will try my best to fix it.",
   "ID": "diverse_shelters",
-  "Version": "1.9.9",
+  "Version": "2.0.0",
   "TargetGameVersion": "v1.9.06",
   "Requirements": "regionkit,crs",
   "RequirementNames": "Region Kit,Custom Regions Support",
