@@ -1,0 +1,24 @@
+Template: NONE
+Clouds: 0.4021288
+Grime: 0
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+WaterReflectionAlpha: 0
+Palette: 81
+EffectColorA: 10
+EffectColorB: 13
+TerrainLight: 0
+TerrainStainAmount: 1
+TerrainStainBrightness: 1
+TerrainStainHeight: 0.2010644
+TerrainWaves: 0.3093302
+TerrainEdgeRadius: 55.35995
+TerrainGooHeight: 0.1261437
+TerrainGrain: 1
+TerrainDepth: 5
+TerrainSkyFade: 1
+TerrainPalette: ridgesalt
+Effects: Fog-0.5026607-20-20, 
+PlacedObjects: CustomDecal><435.9694><145.0523><0~107~109~100~129~7~393~-106~0.1847826~1~0~BlackRust1~1~1~1~1~1~1~1~1, LightFixture><491.0068><301.2836><HolyFire~17.32051~-10~36, LightSource><488.5779><296.7502><0.3040082~EffectColor2~2.845825~65.13855~50~86.60254~0~0~None~0~0, LightSource><490.0909><299.9679><0.07201087~EffectColor2~-0.7114258~115.6521~53.55731~203.2817~0~1~None~0~0, TerrainHandle><769.7194><248.4104><-39.28857~-9.960449~0~-76.12607~20, TerrainHandle><664.4622><227.6531><-37.86566~4.268738~40~0~20, TerrainHandle><571.995><253.9515><0~-83.24063~35.01978~-10.67184~20, TerrainHandle><420.7776><76.15387><0~78.97186~67.74689~44.82187~20, TerrainHandle><408.3149><252.5932><-38.57709~-12.80627~0~-92.48959~20, TerrainHandle><306.9586><237.0424><-37.8656~4.980194~41.42291~4.980225~20, TerrainHandle><207.9363><263.868><0~-134.4656~40~0~20, TerrainHandle><570.4354><67.60519><-71.8573~57.62817~0~72.56876~20, ShelterBhvrManager><96.72367><269.4444><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><348.5803><259.9439><, ShelterBhvrSpawnPosition><635.2556><251.0443><, ShelterBhvrSpawnPosition><459.9177><257.5226><, ShelterBhvrSpawnPosition><280.3761><262.2641><, ShelterBhvrSpawnPosition><692.9544><247.8857><, InsectGroup><489.7998><290.6017><1.422974~-106.3229~0~0~StandardFly~0.3066691, TerrainSunOffset><75.87892><192.259><27.0354~29.56561, 
+AmbientSounds: SPOT><SO_NAT-Fire.ogg><713.8133><216.2688><0.3840013><1><490.181><304.4261><-63.81372><-55.27615><0><0.154133, OMNI><AM_ENV-SubTerr.ogg><145.9892><78.54712><0.2065217><1, 
+FadePalette: 83, 0.8530683

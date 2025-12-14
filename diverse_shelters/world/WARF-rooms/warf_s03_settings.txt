@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0
+Grime: 0
+Palette: 80
+EffectColorA: 9
+EffectColorB: 10
+Effects: Fog-0.5026607-79.05106-102.5292, 
+PlacedObjects: ShelterSpawnPoint><297.3554><327.8882><, ShelterBhvrSpawnPosition><385.1585><294.793><, ShelterBhvrSpawnPosition><448.1735><296.0496><, ShelterBhvrSpawnPosition><574.7614><298.8846><, ShelterBhvrSpawnPosition><647.4667><297.487><, ShelterBhvrSpawnPosition><712.2094><322.2731><, ShelterBhvrPlacedDoor><848.8094><342.8071><-1^0, ShelterBhvrManager><-64.44687><281.2285><21.02811~49.28851~False~False~4~False~3~6~20~40~60~120~120~120~False, 
+AmbientSounds: OMNI><Noise Wind.wav><8.821655><100.3133><0.09782609><1, 
+FadePalette: 83, 0.9099072

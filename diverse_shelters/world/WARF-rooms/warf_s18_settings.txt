@@ -1,0 +1,7 @@
+Template: NONE
+Grime: 0
+Palette: 81
+Effects: Fog-0.502661-93.28021-82.60833, Toxic Brine Water-1-94.70313-116.7583, 
+PlacedObjects: ShelterBhvrManager><116.9583><262.0702><-205.9271~69.20935~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><411.1836><72.45132><, ShelterBhvrSpawnPosition><413.0546><207.6622><, 
+AmbientSounds: OMNI><Deep Weird Wind.wav><354.1727><11.10095><0.04347826><1, OMNI><AM_ENV-SubTerr.ogg><540.2773><15.30188><0.1521739><1, SPOT><so_wat-lightflow.ogg><721.4904><371.5298><0.4072007><1.9><414.6175><-35.48795><-1.205322><183.0624><0><0.1, 
+FadePalette: 83, 0.9021739

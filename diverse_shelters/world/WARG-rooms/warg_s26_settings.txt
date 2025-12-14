@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.6853412
+WaveLength: 0.9073294
+WaveAmplitude: 2.588464E-08
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0
+Grime: 0
+Palette: 455
+EffectColorA: 9
+EffectColorB: 18
+PlacedObjects: WallLight><291.4508><282.133><-335.2146~110.474~291.4508~282.133~-0.7114563~171.8573~272.1729~2.13443~269.3271~164.0313~1~0.5~0.6984034~False~SkyColor~False~False~Always~Soft, ShelterBhvrManager><42.76636><259.9342><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><355.2086><333.7883><, ShelterBhvrSpawnPosition><436.9379><354.4468><, ShelterBhvrSpawnPosition><517.7894><330.5816><, 
+AmbientSounds: OMNI><RWTW_AR_WindyCliff.ogg><407.6892><72.81485><0.1086956><0.7065217, OMNI><RWTW_AR_RearDen.ogg><221.8008><75.23242><0.06521739><1.9, OMNI><am_env-citytone.ogg><261.2271><191.6987><0.3586957><1, 
+FadePalette: 14, 0.3251281
+WetTerrain: OFF

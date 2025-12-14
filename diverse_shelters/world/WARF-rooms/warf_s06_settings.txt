@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.3943956
+Grime: 0
+Palette: 80
+Effects: Fog-1-20-20, 
+PlacedObjects: ShelterBhvrManager><116.1832><269.2124><-132.6469~-297.1917~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><380.5984><370.0424><, ShelterBhvrSpawnPosition><488.9148><369.6923><, ShelterBhvrSpawnPosition><649.8414><378.123><, ShelterBhvrSpawnPosition><603.4048><371.1108><, ShelterBhvrSpawnPosition><435.272><371.4897><, ShelterBhvrSpawnPosition><548.2842><371.4645><, CGShelterRain><299.6418><448.4215><, LightSource><490.0703><388.2899><0.1184109~Environment~-330.1166~-2.450073~50~86.60254~0~0~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><712.4888><442.2614><0.2065217><1, OMNI><Deep Weird Wind.wav><718.9409><339.4728><0.05434782><1.9, 
+FadePalette: 83, 0.755242

@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.4098617
+Grime: 0
+Palette: 81
+Effects: Fog-0.510394-35.6521-103.9521, 
+PlacedObjects: CustomDecal><192.3318><82.26274><-1.422943~518.1~595.649~521.6573~612.0126~-9.248962~-326.5593~42.68752~0.2706636~1~0~greybones~0.1056048~1~0.1056048~1~0.1056048~1~0.1056048~1, ShelterBhvrManager><124.7596><264.3829><674.8583~-149.9198~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><610.9091><398.4363><, ShelterBhvrSpawnPosition><516.3376><398.7206><, ShelterBhvrSpawnPosition><414.9028><395.9473><, ShelterBhvrSpawnPosition><301.6419><275.0504><, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><518.0278><73.77354><0.10412><1, OMNI><RWTW_AR_Heater.ogg><521.433><167.5359><0.04373965><1, 
+FadePalette: 83, 0.9052585

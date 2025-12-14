@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0.7717391
+Grime: 0.04347826
+BkgDroneVolume: 0
+BkgDroneNoThreatVolume: 0
+Palette: 61
+EffectColorB: 2
+PlacedObjects: ShelterBhvrSpawnPosition><589.3646><350.1467><, ShelterBhvrSpawnPosition><270.3169><512.3887><, ShelterBhvrSpawnPosition><269.4015><411.8392><, ShelterBhvrSpawnPosition><435.6504><331.8096><, ShelterBhvrManager><-98.97113><52.19803><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, 
+AmbientSounds: SPOT><AM_ENV-NatWind.ogg><186.7323><297.446><0.3157332><0.800991><260.6244><62.31622><142.0816><-164.2244><0><0.1614227, SPOT><AM_ENV-Outside.ogg><563.3381><139.0979><0.3771548><1><262.0131><70.14146><-222.9639><-88.48557><0><0.1245688, SPOT><SO_IND-WinFan.ogg><767.3405><294.7992><0.3157322><0.6904315><527.4216><477.9385><-211.373><-47.08649><0><0.2965519, SPOT><so_wat-runningwater.ogg><449.4454><219.0107><0.5><1><501.1475><647.2451><-103.6553><-107.9241><0><0.2159988, SPOT><so_wat-tapwater.ogg><548.145><23.78306><0.5><1><495.9741><475.4955><-66.65948><-71.63977><0><0.1850659, SPOT><so_wat-splashes.ogg><799.2818><139.3958><0.5><1><496.6777><310.7937><-101.521><-31.79803><0><0.1927988, 
+FadePalette: 8, 0.1304348

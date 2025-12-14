@@ -1,0 +1,9 @@
+Template: NONE
+Grime: 0
+Palette: 80
+EffectColorA: 10
+EffectColorB: 10
+Effects: WaterDepth-0.1623983-202.1333-102.5292, Fog-0.502661-197.1531-38.49792, 
+PlacedObjects: LightSource><429.1174><182.8285><0.2708787~Environment~-166.0583~24.49475~-618~90.60254~0~0~None~0~0, ShelterBhvrManager><145.3063><270.4851><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><290.4181><297.3033><, ShelterBhvrSpawnPosition><380.4869><295.8933><, ShelterBhvrSpawnPosition><468.5469><296.4366><, 
+AmbientSounds: OMNI><waterGurgleLOOP1.wav><30.33014><287.5668><0.06521739><1, OMNI><AM_ENV-SubTerr.ogg><21.5144><379.5505><0.1521739><1, 
+FadePalette: 33, 0.8789743

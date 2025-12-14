@@ -1,0 +1,9 @@
+Template: NONE
+Clouds: 0.8042573
+Grime: 0
+BkgDroneVolume: 0.3043478
+Palette: 455
+Effects: Fog-0.5026607-20-20, 
+PlacedObjects: LightSource><472.4346><683.061><0.3043478~White~-1~-367~422~-724.3975~1~0~None~0~0, CustomDecal><400.1771><289.657><-5~288~131~303~152~-8~-803~-631~0~1~0~GreyBones~0.1086956~1~0.1086956~1~0.1086956~1~0.1086956~1, ShelterBhvrManager><-83.10433><272.3623><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><339.3264><330.5329><, ShelterBhvrSpawnPosition><279.0255><357.8516><, ShelterBhvrSpawnPosition><442.1311><334.5501><, ShelterBhvrSpawnPosition><503.8306><355.2073><, ShelterBhvrSpawnPosition><658.0392><336.0687><, 
+AmbientSounds: SPOT><AM_ENV-Outside.ogg><316.0363><20.19669><0.1521739><1><473.0363><618.1967><-8.624146><-424.7688><0><0.154348, SPOT><AM_ENV-LightWind.ogg><48.44489><148.3077><0.2092278><1><473.4449><619.3077><-10.75848><-375.8126><0><0.154348, 
+FadePalette: 14, 0.5026607

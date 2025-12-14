@@ -1,0 +1,15 @@
+Template: NONE
+WaveSpeed: 0.5554928
+WaveLength: 0.9722536
+WaveAmplitude: 1.874378E-05
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.3015969
+Grime: 0
+Palette: 455
+EffectColorA: 10
+EffectColorB: 2
+Effects: Fog-0.5026608-20-20, 
+PlacedObjects: CustomDecal><355.6527><265.677><2.577087~180.7823~291.7938~169.8219~301.5801~2.865631~-302.2125~-181.4531~0.5869565~0.6956522~0~fairmaiden~1~0~1~0~1~0~1~0, LightSource><710.5097><350.1237><0.3504078~Environment~-101.7427~56.15408~-797.9333~90.55566~0~0~None~0~0, ShelterBhvrManager><144.724><266.9904><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><429.3828><316.1622><, ShelterBhvrSpawnPosition><512.9016><350.2266><, ShelterBhvrSpawnPosition><595.9539><317.3582><, ShelterBhvrSpawnPosition><769.9165><215.9355><, LightSource><538.2261><352.8217><0.04107732~EffectColor2~-620.3917~-9.564575~50~86.60254~0~1~None~0~0, 
+AmbientSounds: OMNI><RWTW_AR_RearDen.ogg><352.1964><37.28778><0.08695652><0.8043478, OMNI><RWTW_AR_SynthHell.ogg><536.8326><39.89056><0.06521739><1, 
+FadePalette: 14, 0.4444277
