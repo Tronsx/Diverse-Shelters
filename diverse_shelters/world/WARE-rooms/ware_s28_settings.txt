@@ -1,0 +1,9 @@
+Template: NONE
+Grime: 0
+Palette: 81
+EffectColorA: 20
+EffectColorB: 18
+Effects: Hue-0.352889-31.96109-97.46224, 
+PlacedObjects: LightSource><451.9522><343.2889><0.03419826~EffectColor2~-1335.084~688.3713~424.2109~-443.6721~0~1~None~0~0, FlameJet><1157.798><301.1284><-793.9215~105.2843~1157.798~301.1284~-677.7946~-115.2994~1~1~0.5~0~0.5~0~None~None~Always~0~1~0~1~False~0.2685733~0~0.353773~0.3723463, ShelterBhvrManager><141.3624><268.5492><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><458.2188><310.9915><, ShelterBhvrSpawnPosition><603.6152><309.8521><, ShelterBhvrSpawnPosition><532.6393><330.5046><, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><689.1844><445.8587><0.2525363><1, 
+FadePalette: 83, 0.854363

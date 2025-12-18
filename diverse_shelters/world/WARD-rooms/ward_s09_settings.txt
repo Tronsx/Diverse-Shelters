@@ -1,0 +1,7 @@
+Template: NONE
+Grime: 0
+Palette: 81
+Effects: DarkenLights-0.5014738-35.12619-89.8054, 
+PlacedObjects: LightSource><771.9424><426.7552><0.2065217~White~0~100~50~86.60254~1~0~None~0~0, LightSource><390.4365><430.449><0.2065217~White~0~100~50~86.60254~1~0~None~0~0, ShelterBhvrManager><119.9914><264.1239><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><391.2432><440.0552><0^-1, ShelterBhvrSpawnPosition><740.0598><274.8947><, ShelterBhvrSpawnPosition><672.6315><299.0121><, ShelterBhvrSpawnPosition><840.5096><295.8407><, ShelterBhvrSpawnPosition><502.7761><289.7762><, ShelterBhvrSpawnPosition><421.2844><280.0366><, ShelterBhvrSpawnPosition><338.028><288.9937><, 
+AmbientSounds: OMNI><Noise Wind.wav><133.8619><12.10529><0.09782609><1, SPOT><AM_WIN_Hilltop.ogg><738.5354><460.5532><0.3586957><1><491.5355><561.5532><2.644653><-97.35529><0><0.1869567, SPOT><RWTW_AR_WindyCliff.ogg><728.7965><161.6945><0.1521739><1><492.7965><561.6945><-68.35535><-67.35535><0><0.1326088, 
+FadePalette: 454, 0.9021739

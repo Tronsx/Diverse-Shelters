@@ -1,0 +1,9 @@
+Template: NONE
+Grime: 0
+Palette: 80
+EffectColorA: 10
+EffectColorB: 16
+Effects: Fog-0.5050725-28-11, Contrast-0.0326087-29-77, DarkenLights-0.5014738-306.1918-70.59602, 
+PlacedObjects: LightSource><473.8591><165.1582><0.05896394~EffectColor2~174~28~345.3137~-243.974~0~0~Fade~0.9938089~0, WallLight><406.3516><152.486><150~50~406.3516~152.486~0~100~133.1569~0~131.592~102.1343~0.7243513~1~0.1456372~False~SkyColor~False~False~Always~Soft, WallLight><211.8604><72.58542><150~50~211.8604~72.58542~0~100~133.1569~0~131.592~102.1343~0.7243513~1~0.1456372~False~SkyColor~False~False~Always~Soft, WallLight><596.0479><75.43124><150~50~596.0479~75.43124~0~100~133.1569~0~131.592~102.1343~0.7243513~1~0.1456372~False~SkyColor~False~False~Always~Soft, LightSource><270.9114><88.23749><0.05896394~EffectColor2~174~28~52.19281~88.98853~0~0~Fade~0.9938089~0, LightSource><660.0792><86.81458><0.05896394~EffectColor2~174~28~52.19281~88.98853~0~0~Fade~0.9938089~0, ShelterBhvrManager><150.8994><267.8141><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><661.498><171.7511><, ShelterBhvrSpawnPosition><249.0877><175.9836><, ShelterBhvrSpawnPosition><549.2169><170.3413><, ShelterBhvrSpawnPosition><377.5541><172.3766><, ShelterBhvrSpawnPosition><467.2048><192.7995><, 
+AmbientSounds: OMNI><SO_IND-HVAC.ogg><412.9902><30.5502><0.1521739><1, OMNI><SO_IND-WeirdVent.ogg><234.6569><27.37399><0.1521739><1, OMNI><SO_SFX-GlassGhost.ogg><784.8698><30.16019><0.06521739><1.9, OMNI><SO_SFX-LakeBottom.ogg><598.05><25.74899><0.25><1, SPOT><RWTW_AR_StaticRadio.ogg><765.6912><379.6913><0.326087><0.2565217><475.6912><49.69125><2.644653><-103.3553><0><0.1, 
+FadePalette: 454, 0.8586956
