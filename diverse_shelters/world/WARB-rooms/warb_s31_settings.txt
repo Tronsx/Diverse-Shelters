@@ -1,0 +1,5 @@
+Palette: 80
+Effects: DarkenLights-0.8051803-20-20, 
+PlacedObjects: ShelterBhvrManager><136.371><264.6592><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><485.3002><295.9913><, ShelterBhvrSpawnPosition><563.8059><292.942><, ShelterBhvrSpawnPosition><648.5881><288.8204><, ShelterBhvrSpawnPosition><725.8022><288.0298><, ShelterBhvrSpawnPosition><805.5446><288.0551><, 
+AmbientSounds: SPOT><SO_WAT-RunningWater.ogg><775.6326><411.876><0.2002092><1><663.012><292.7345><72.67297><-66.22058><0><0.38127, 
+FadePalette: 33, 0.9058279

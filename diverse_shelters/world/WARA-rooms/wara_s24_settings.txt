@@ -1,0 +1,9 @@
+Template: NONE
+Grime: 0
+Palette: 83
+EffectColorA: 13
+EffectColorB: 13
+Effects: Darkness-0.2043042-35.37854-106.0059, 
+PlacedObjects: CustomDecal><176.8005><219.5304><27.33966~241.0601~554.2664~234.1379~559.1886~20.59195~-398.1332~-545.0836~0.2880309~0.306604~0~greybones~0.2508845~1~0.2508845~1~0.2508845~1~0.2508845~1, FloatingDebris><639.9063><282.3233><-589~-151~34294928~0~30~0.25~0.5~6~-445|-232|-58~102|10|89~0.62|0.25|0.5~0.98|1.3|1.96~0|0|0~Gilded Wind~0.5~0v-0.87v0v0|0v-1.07v0v0|0v-1.15v0v0~0, WallLight><206.1988><472.4782><-255~-178~206.1988~472.4782~1~-277~393~-1~391~-245~0.07608695~0.2826087~0.1413043~False~SkyColor~False~False~Always~Soft, FloatingDebris><376.5856><322.1138><-462~-216~1897701560~30~30~0~0.2826094~100~-84|86~62|64~0.55|0.7~0|0~0|0~Rock~0.5543478~0v0v0v0|0v0v0v0~0, ShelterBhvrManager><139.0576><262.1951><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><555.3576><324.8595><, ShelterBhvrSpawnPosition><481.5895><305.8806><, ShelterBhvrSpawnPosition><372.5195><349.199><, ShelterBhvrSpawnPosition><288.73><311.949><, 
+AmbientSounds: OMNI><RWTW_AR_ClinkMachine.ogg><668.1861><158.4162><0.2028304><0.3536552, OMNI><AM_WIN-HowlingWnd.ogg><672.7631><238.1996><0.2608696><1.211734, 
+FadePalette: 148, 0.4456522

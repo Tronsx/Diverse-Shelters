@@ -1,0 +1,7 @@
+Clouds: 0.1086956
+Grime: 0
+Palette: 80
+Effects: DarkenLights-0-35.12619-89.8054, Fog-0.5-20-20, 
+PlacedObjects: ShelterSpawnPoint><457.8273><313.601><, WallLight><738.9718><407.302><-671~-86~738.9718~407.302~-235~1~-10~-106~-385~-124~0.5978261~0.08695652~0.3152174~False~SkyColor~False~False~Always~Soft, LightSource><692.6444><339.6383><0.2065217~White~-137~159~50~86.60254~0~0~None~0~0, ShelterBhvrManager><101.5514><269.0237><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><338.5538><311.539><, ShelterBhvrSpawnPosition><412.4337><312.671><, ShelterBhvrSpawnPosition><486.8198><313.9132><, ShelterBhvrSpawnPosition><544.4492><339.7685><, LightBeam><490.942><390.0562><277~-4~274~-26~3~-22~-419~-12~0.497826~0~0~1~None~0~0, LightBeam><542><372><277~-4~279~-22~0~-14~-419~-12~0.497826~0~0~1~None~0~0, LightBeam><481><356><277~-4~278~-39~-4~-44~-419~-12~0.497826~0~0~1~None~0~0, 
+AmbientSounds: SPOT><waterGurgleLOOP1.wav><731.9187><550.1074><0.25><1><209.9187><344.1074><-165.3553><-3.355347><0><0.2086958, OMNI><SO_NAT-WindTunnel.ogg><329.8884><26.39435><0.1086956><1, SPOT><RWTW_AR_DripWorks.ogg><723.6544><439.6229><0.1521739><1><219.6544><338.6229><425.6447><-55.35535><0><0.1, SPOT><AM_ENV-SubTerr.ogg><683.1732><278.6><0.3043478><1><887.1732><334.6><-303.3553><-221.3553><0><0.1, 
+FadePalette: 33, 0.9021739

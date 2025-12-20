@@ -1,0 +1,7 @@
+Clouds: 0.4021739
+Grime: 0
+Palette: 10
+Effects: DarkenLights-0.8051804-46.54413-27.40765, Fog-0.5-41-97, 
+PlacedObjects: LightSource><591.825><261.8468><1~Environment~-9~356~50~86.60254~0~0~None~0~0, CustomDecal><302.8963><174.829><-3~357~517~349~540~-15~-281~-37.00002~0.2065217~1~0~bluesmoker~0.1521739~0~0.1521739~0~0.1521739~0~0.1521739~0, ShelterBhvrManager><111.3349><265.3629><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><486.6234><331.9074><, ShelterBhvrSpawnPosition><564.434><327.9388><, ShelterBhvrSpawnPosition><629.1968><332.9428><, ShelterBhvrSpawnPosition><709.423><360.1496><, 
+AmbientSounds: OMNI><SO_NAT-WindTunnel.ogg><210.1315><24.64655><0.1086956><1, OMNI><waterGurgleLOOP1.wav><418.6733><29.62618><0.2047676><1, SPOT><so_wat-splashes.ogg><723.3631><250.6042><0.3043478><1><590.3632><363.6042><-76.35535><-76.35535><0><0.1, 
+FadePalette: 33, 1
