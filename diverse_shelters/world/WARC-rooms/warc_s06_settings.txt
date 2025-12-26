@@ -1,0 +1,8 @@
+Template: NONE
+Palette: 98
+EffectColorA: 14
+EffectColorB: 13
+Effects: Darkness-0-21.70874-105.4363, 
+PlacedObjects: CustomDecal><236.7315><34.90247><-9.381348~516.7687~631.5594~506.5273~600.2721~-14.23941~-333.7711~-164.6073~0~0.176592~0~xrootscreen~0.6510885~0.5014738~0.6510885~0.5014738~0.6510885~0.5014738~0.6510885~0.5014738, CosmeticRipple><801.2966><23.29826><-761.545~160.505~-164.885~311.6188~801.2966~23.29826~352.5526~0.6855986~0.1555302~False~0.4988858~False~0~False~-1~0~False, ShelterBhvrManager><135.4646><266.1591><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><447.5264><466.5967><, ShelterBhvrSpawnPosition><575.6351><469.4792><, ShelterBhvrSpawnPosition><587.9689><353.4244><, 
+AmbientSounds: OMNI><AM_IND-Warehouse01.ogg><332.032><53.2685><0.3018872><1, OMNI><am_env-outside.ogg><661.5125><362.5705><0.25><1, 
+FadePalette: 10, 0.6507819

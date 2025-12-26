@@ -1,0 +1,5 @@
+Palette: 98
+EffectColorB: 21
+Effects: Darkness-0.3066041-21.70871-95.18394, DarkenLights-0.5076652-293.9658-62.14857, 
+PlacedObjects: CustomDecal><115.8828><192.6114><-3.41748~360.6709~632.9279~338.4575~642.6107~-26.20047~-4.55661~-485.8477~0~1~0~xrootscreen~0.4056604~1~0.4056604~1~0.4056604~1~0.4056604~1, ShelterBhvrManager><121.652><265.4154><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><428.5255><426.5361><, ShelterBhvrSpawnPosition><510.4604><326.3668><, ShelterBhvrSpawnPosition><314.0616><323.6255><, ShelterBhvrSpawnPosition><412.9254><233.2695><, ShelterBhvrPlacedDoor><191.4945><347.2847><1^0, ShelterBhvrPlacedDoor><423.4251><581.736><0^-1, ShelterBhvrPlacedDoor><426.7864><112.9879><0^1, LightSource><425.1172><360.0386><1~Environment~2.561279~191.3513~50~86.60254~0~0~None~0~0, 
+FadePalette: 10, 0.7028301

@@ -1,0 +1,5 @@
+Template: warc_settingstemplate_cistern
+Palette: 98
+PlacedObjects: CustomDecal><254.8965><255.4657><-12.43811~258.7257~641.1857~262.2596~621.7732~-3.45462~-372.2349~-169.7588~0~1~0~xrootscreen~0.5034724~1~0.5034724~1~0.5034724~1~0.5034724~1, ShelterBhvrManager><132.9355><262.8203><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><463.1454><331.5596><, ShelterBhvrSpawnPosition><747.9952><334.7122><, ShelterBhvrSpawnPosition><574.8215><318.3188><, ShelterBhvrSpawnPosition><641.3191><317.1583><, 
+AmbientSounds: SPOT><waterGurgleLOOP1.wav><765.8851><329.486><0.4060622><1><189.4156><337.3646><-10.04587><-230.4237><0><0.1, 
+FadePalette: 10, 0.7054321

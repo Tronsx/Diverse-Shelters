@@ -1,0 +1,3 @@
+Palette: 98
+PlacedObjects: ShelterBhvrManager><111.053><265.2272><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><379.561><239.2107><, ShelterBhvrSpawnPosition><329.3025><235.9803><, ShelterBhvrSpawnPosition><520.5425><232.3792><, ShelterBhvrSpawnPosition><576.89><211.1682><, ShelterBhvrSpawnPosition><651.1662><233.5805><, 
+FadePalette: 10, 0.704533
