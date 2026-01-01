@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04507615
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0
+RandomItemSpearChance: 0
+Palette: 100
+EffectColorA: 18
+PlacedObjects: LightSource><861.3809><-37.36274><0.3318481~EffectColor1~-1.70752~239.1613~-574.0912~36.23129~0~0~None~0~0, LightSource><860.1648><-32.13985><0.03489088~EffectColor1~-0.8537598~274.165~-52.44995~340.1664~0~1~None~0~0, ShelterBhvrManager><109.0262><279.6906><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><838.9548><30.69702><, ShelterBhvrSpawnPosition><928.7439><30.21773><, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><751.3633><561.2417><0.3327531><1, OMNI><AM_IND-Fabrik02.ogg><540.6009><573.2222><0.2770041><0.7491308, 
+FadePalette: 10, 0.8083609
