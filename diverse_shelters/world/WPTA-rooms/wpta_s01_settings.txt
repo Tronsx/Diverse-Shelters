@@ -1,0 +1,5 @@
+Template: wpta_settingstemplate_spireinside
+Grime: 0.1521739
+PlacedObjects: ShelterBhvrManager><155.1676><275.3592><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><340.4371><227.0601><, ShelterBhvrSpawnPosition><281.1835><270.9386><, ShelterBhvrSpawnPosition><414.567><228.4385><, LightSource><391.0508><239.4827><0.7065217~Environment~-16~195~50~86.60254~1~0~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><721.1221><426.9912><0.2398376><1, OMNI><SO_SFX-Data4.ogg><683.6055><588.2711><0.2212551><0.5818819, SPOT><SO_IND-Deep50hz.ogg><491.55><565.2633><0.3792108><1><174.0043><335.3211><-85.78964><-93.44656><0><0.2486645, 
+FadePalette: 3, 0.2065217
