@@ -1,0 +1,3 @@
+Effects: Darkness-0.2012951-32.46921-127.5342, 
+PlacedObjects: CustomDecal><376.8544><220.1053><4.938477~208.5242~243.0933~202.9685~249.2663~-5.555756~-390.3849~-181.1185~0.2885231~1~0~deeptealsquare~0~0~0~0~0.6041194~0~1~0, WallLight><407.6161><234.9128><-359~111~407.6161~234.9128~-1~181~164~-3~164~173~0.4673913~0.2608696~0.08695652~False~SkyColor~False~False~Always~Hard, ShelterBhvrManager><119.8145><265.0607><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><430.036><472.0533><, ShelterBhvrSpawnPosition><554.6539><474.3723><, ShelterBhvrSpawnPosition><636.3758><334.4068><, ShelterBhvrSpawnPosition><496.7163><315.1971><, ShelterBhvrSpawnPosition><345.427><332.8431><, 
+FadePalette: 801, 0.3556212

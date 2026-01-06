@@ -1,0 +1,6 @@
+Template: wmpa_settingstemplate_tidelands
+TerrainDepth: 5
+TerrainPalette: mpath2
+Effects: SSMusic-0-30-30, 
+PlacedObjects: TerrainHandle><361.4688><341.3025><-44~3~38~-1~20, TerrainHandle><222.9494><375.2659><-45~-2~38~-5~20, TerrainHandle><450.5903><339.4284><-31~3~39~-1~20, TerrainHandle><566.1804><320.9375><-53~-1~35~-6~24, TerrainHandle><627.5513><304.0223><-40~0~0~-164~20, ShelterBhvrManager><134.8947><270.3619><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><348.2931><414.0547><, ShelterBhvrSpawnPosition><427.71><415.1959><, ShelterBhvrSpawnPosition><538.3683><335.1505><, ShelterBhvrSpawnPosition><632.0938><331.8752><, ShelterBhvrSpawnPosition><740.3998><334.8825><, ShelterBhvrPlacedDoor><692.1227><208.9043><0^1, 
+FadePalette: 10, 0.204413
