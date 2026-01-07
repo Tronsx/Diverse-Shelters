@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.01086957
+Palette: 208
+EffectColorA: 13
+EffectColorB: 2
+Effects: SilenceWater-0.4565217-20-20, 
+PlacedObjects: CustomDecal><329.5655><142.9228><-65~-180~283~-183~311~-8~-319~-151~0~1~1~rf_sand~0.5~0.08695652~0.5~0.08695652~0.5~0.08695652~0.5~0.08695652, LightBeam><407.3707><27.59047><-2~240~91~241~88~-4~-201~434~0.3891303~0~0.6847826~1~None~0~0, BrokenShelterWaterLevel><451.6646><46.13641><, ShelterBhvrManager><148.8272><265.3507><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><315.3021><45.77869><, ShelterBhvrSpawnPosition><607.95><72.00108><, ShelterBhvrSpawnPosition><550.6517><48.82579><, ShelterBhvrSpawnPosition><414.6759><50.43576><, 
+AmbientSounds: OMNI><SO_WAT-OpenFlow.ogg><24.98883><518.8003><0.25><1, OMNI><SO_WAT-MoreDrips.ogg><26.54816><439.6941><0.3586957><1, OMNI><SO_WAT-RunningWater.ogg><28.6828><364.0616><0.1521739><1, 
+FadePalette: 10, 0.1195652

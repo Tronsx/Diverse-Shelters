@@ -1,0 +1,6 @@
+Template: NONE
+Palette: 210
+EffectColorA: 13
+EffectColorB: 2
+PlacedObjects: LightSource><178.5211><384.3584><0.1630435~EffectColor2~164~30~410~147.6025~0~0~None~0~0, LightSource><168.8452><392.2897><0.04347826~EffectColor1~211~75~97~193.6025~0~1~None~0~0, BrokenShelterWaterLevel><131.5751><343.321><, GlowWeed><146.1977><181.057><38~25~2~3, GlowWeed><123.445><129.2943><0~0~2~3, LightFixture><131.4084><163.3779><GlowWeedLight~244.3205~-109~40, ShelterBhvrManager><119.9316><267.1661><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><67.05176><393.4736><, ShelterBhvrSpawnPosition><105.2608><337.3003><, ShelterBhvrSpawnPosition><149.7449><339.7><, 
+AmbientSounds: OMNI><SO_WAT-OpenFlow.ogg><19.59778><520.6298><0.2391304><1, OMNI><SO_SFX-Drowning.ogg><24.53973><431.946><0.2173913><1, 
