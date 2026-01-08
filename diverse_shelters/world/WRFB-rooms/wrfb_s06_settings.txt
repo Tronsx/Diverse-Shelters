@@ -1,0 +1,7 @@
+Template: NONE
+Grime: 0.1847826
+Palette: 209
+EffectColorA: 2
+PlacedObjects: LightSource><162.1998><676.5097><0.3369565~Environment~159~-66~-31~-197.3975~0~0~None~0~0, BrokenShelterWaterLevel><126.5652><571.8264><, LightSource><307><341><0.3369565~Environment~159~-66~-31~-197.3975~0~0~None~0~0, WaterCurrent><36.11099><373.3562><244~-1~54.0038~289.1489, WaterCurrent><387><503><1~-163~62.0154~236.4186, ShelterBhvrManager><152.8571><263.1689><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><315.3584><575.1681><, ShelterBhvrSpawnPosition><242.0527><577.9673><, ShelterBhvrSpawnPosition><166.3771><556.1544><, 
+AmbientSounds: OMNI><SO_IND-Turbine.ogg><15.69299><529.3083><0.5><1, OMNI><SO_WAT-OpenFlow.ogg><20.55652><437.4493><0.2934783><1, SPOT><SO_WAT-Splashes.ogg><721.8599><370.6073><0.2608696><1><162.8599><556.6073><-52.35535><-53.35535><0><0.1, SPOT><SO_WAT-OpenFlow.ogg><721.4174><491.3594><0.7173913><0.3152174><190.4174><385.3594><-136.3553><-42.35535><0><0.1978262, 
+FadePalette: 10, 0.4347826

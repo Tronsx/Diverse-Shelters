@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.01086957
+Grime: 0.3043478
+Palette: 209
+EffectColorA: 2
+EffectColorB: 13
+PlacedObjects: LightSource><641.0165><643.8007><0.6086956~Environment~162~-126~-151~-196.3975~0~0~None~0~0, BrokenShelterWaterLevel><741.8662><537.1013><, ShelterBhvrManager><164.7999><262.0563><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><739.0985><535.3259><, ShelterBhvrSpawnPosition><661.1921><539.4446><, ShelterBhvrSpawnPosition><631.0031><607.3><, ShelterBhvrSpawnPosition><739.0819><614.6825><, ShelterBhvrSpawnPosition><552.1269><616.6546><, 
+AmbientSounds: OMNI><SO_IND-Turbine.ogg><43.9187><532.6827><0.3369565><1, OMNI><SO_WAT-OpenFlow.ogg><37.85522><455.3299><0.2826087><1, OMNI><AM_IND-Midsex01.ogg><31.93219><380.4175><0.2173913><1, 
