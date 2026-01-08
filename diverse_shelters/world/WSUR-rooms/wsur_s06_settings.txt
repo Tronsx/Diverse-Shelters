@@ -1,0 +1,4 @@
+Effects: Sentient Rot Spores-1-312-58, 
+PlacedObjects: Corruption><348.6567><226.3231><0~100, ShelterBhvrManager><124.9913><263.5502><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><495.6588><136.6284><, ShelterBhvrSpawnPosition><484.4299><273.9373><, PassiveCorruption><429.9178><271.8176><0~100~0~0~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, Corruption><374><259><0~100, 
+AmbientSounds: SPOT><AM_IND-ElectricHum01.ogg><754.0901><297.8798><0.1847826><0.726087><490.0901><230.8798><-50.35535><-43.35535><0><0.1, 
+FadePalette: 10, 0.2597238

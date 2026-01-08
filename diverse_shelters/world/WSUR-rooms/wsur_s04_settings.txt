@@ -1,4 +1,4 @@
-Effects: Sentient Rot Spores-0-40-40, 
+Effects: Sentient Rot Spores-1-49-109, 
 PlacedObjects: ShelterBhvrManager><89.69601><269.5574><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrNoTriggerZone><408.1661><266.8887><120~100, ShelterBhvrSpawnPosition><557.3231><419.0932><, ShelterBhvrSpawnPosition><422.9349><395.5609><, ShelterBhvrSpawnPosition><715.5494><456.3062><, LightSource><474.4497><534.7601><0.3695652~Environment~0~100~-348~-300.3975~1~0~None~0~0, PassiveCorruption><650.1135><526.8538><0~100~-428~-391~7~15~0.8~0.3~0.55~0.05~0.15~0.2~0.2~Default~Dot~Passive~2~0~1, Corruption><250.9178><448.1089><0~100, 
 AmbientSounds: SPOT><am_ind-electrichum01.ogg><740.8815><442.5993><0.2934783><0.4326087><472.8815><528.5993><-93.35535><-99.35535><0><0.1, 
 FadePalette: 10, 0.1847826
