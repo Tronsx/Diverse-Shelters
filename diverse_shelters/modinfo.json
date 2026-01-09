@@ -1,13 +1,25 @@
 {
-	"id": "diverse_shelters",
-	"name": "Diverse Shelters",
-	"version": "3.0.0",
-	"hide_version": false,
-	"authors": "Thalber & Tronsx",
-	"description": "A port of the mod Better Shelters but also changing the shelters you can find in More Slugcats or Downpour and now Watcher",
-	"requirements": ["regionkit", "crs"],
-	"requirements_names": ["Region Kit", "Custom Regions Support"],
-	"checksum_override_version": true
-	"tags": ["Accessibility", "Regions"],
-	"priorities": ["moreslugcats", "watcher"],
+  "id": "diverse_shelters",
+  "name": "Diverse Shelters",
+  "version": "3.0.0",
+  "hide_version": false,
+  "authors": "Thalber & Tronsx",
+  "description": "A port of the mod Better Shelters but also changing the shelters you can find in More Slugcats or Downpour and now Watcher",
+  "requirements": [
+    "regionkit",
+    "crs"
+  ],
+  "requirements_names": [
+    "RegionKit",
+    "Custom Regions Support"
+  ],
+  "checksum_override_version": true,
+  "tags": [
+    "Accessibility",
+    "Regions"
+  ],
+  "priorities": [
+    "moreslugcats",
+    "watcher"
+  ]
 }
