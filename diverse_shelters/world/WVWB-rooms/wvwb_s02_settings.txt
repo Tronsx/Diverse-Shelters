@@ -1,0 +1,26 @@
+Template: NONE
+DangerType: Sandstorm
+CeilingDrips: 0
+RainIntensity: 0.154473
+RumbleIntensity: 0.154473
+WaveSpeed: 0.5086902
+WaveLength: 0.9956549
+WaveAmplitude: 0.00683551
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.2844411
+Grime: 0
+Palette: 334
+TerrainLight: 0.7282609
+TerrainStainAmount: 1
+TerrainStainHeight: 0.4021739
+TerrainWaves: 0.3478261
+TerrainGooHeight: 0.07608695
+TerrainGrain: 0.4804342
+TerrainDepth: 2.010863
+TerrainPalette: wvwb_sand
+Effects: LocustSwarmConfig-0,0.5,0.1080159,0,0-296.1064-231.0078, ModifyEffectColorB-0.3043478,0.08695652,0.3043478-20-20, 
+PlacedObjects: CustomDecal><422.4105><232.2927><-0.105957~441.2145~430.3678~449.2383~436.3027~-20.10217~-516.3934~-57.53461~0.1422205~1~0~rustymetal(var)~0.5~1~0.5~1~0.5~1~0.5~1, TerrainHandle><407.1115><368.416><-45~38~116~-14~73, TerrainHandle><576.1722><312.6484><-44~3~46~8~119, TerrainHandle><689.6971><333.7164><-38~-12~0~-87~45, BlackSpot><475.3018><255.7231><-2~53~165~12~120~-49, BlackSpot><520.9283><182.3405><-1~39~148~181~182~-8, ShelterBhvrManager><141.6767><282.3436><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><551.1881><356.9322><, ShelterBhvrSpawnPosition><703.0231><560.1987><, ShelterBhvrSpawnPosition><506.9711><555.8021><, ShelterBhvrSpawnPosition><617.1392><555.0835><, 
+AmbientSounds: OMNI><AM_WIN_Hilltop.ogg><60.77191><515.7573><0.234521><1, OMNI><RWTW_AmbInterior.ogg><74.64798><428.8499><0.3388161><1, 
+FadePalette: 336, 0.4266616
+TerrainFadePalette: test_soot_dark, 0.3695652

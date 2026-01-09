@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+Clouds: 0.141858
+Grime: 0
+Palette: 453
+Effects: ModifyEffectColorA-0.1607727,0.2162837,0.2446551-58.71213-93.49265, ModifyEffectColorB-0.3026302,0.08388287,0.3013989-323.6407-100.0136, Fog-0.1086956-20-20, RockFlea-0.2282609-306-24, Flies-0.3043478-316-285, 
+PlacedObjects: ShelterBhvrManager><118.0515><285.2256><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><324.4845><406.4494><, ShelterBhvrSpawnPosition><159.6699><411.1444><, CustomDecal><-89.40384><236.8722><-21~367~655~361~662~24~130~-179~0.04347826~1~0~rustymetal(var)~0.4130435~1~0.4130435~1~0.4130435~1~0.4130435~1, 
+AmbientSounds: OMNI><MSC-LowGroans.ogg><49.95523><515.7587><0.2068263><0.4041953, OMNI><RWTW_AmbEmpty.ogg><33.01505><440.8706><0.4054278><1, 
+FadePalette: 460, 0.501232

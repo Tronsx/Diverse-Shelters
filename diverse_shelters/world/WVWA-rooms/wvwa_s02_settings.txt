@@ -1,0 +1,3 @@
+PlacedObjects: FluxWaterfall><160><340><3~0.9130435~D~0~0, FluxDrain><160><20><3~0.5~D~0~0, WaterCycleTop><248.1243><36.84332><, WaterCycleBottom><249.9844><-19.4494><, ShelterBhvrManager><98.19162><287.5573><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><184.1919><91.69357><, ShelterBhvrSpawnPosition><187.9793><249.9489><, 
+AmbientSounds: OMNI><RWTW_AmbSubBubble.ogg><614.1078><533.3594><0.2119632><0.7156798, 
+FadePalette: 10, 0.3066197
