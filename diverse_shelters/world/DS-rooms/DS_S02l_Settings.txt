@@ -1,6 +1,6 @@
 DangerType: FloodAndRain
 CeilingDrips: 0.7934783
 Clouds: 0.25
-PlacedObjects: ShelterBhvrManager><496.653><99.37888><-640~198~True~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrPlacedDoor><242.8603><290.6668><1^0, ShelterBhvrSpawnPosition><462.2797><495.4478><, ShelterBhvrSpawnPosition><679.3008><337.4827><, BrokenShelterWaterLevel><515.3615><276.4161><, ShelterBhvrSpawnPosition><634.4454><438.2076><, ShelterBhvrSpawnPosition><472.0949><269.1237><, ShelterBhvrPlacedDoor><244.1901><537.9408><1^0, ShelterBhvrNoTriggerZone><221.3391><222.3812><150~372, CustomDecal><233.6075><162.1097><-2~181~500~180~499~-9~-286~-201~0.1630435~1~0~dirtywaterline~0.6195652~1~0.7282609~1~0.8260869~1~0.5869565~1, 
+PlacedObjects: ShelterBhvrPlacedDoor><242.8603><290.6668><1^0, ShelterBhvrSpawnPosition><462.2797><495.4478><, ShelterBhvrSpawnPosition><679.3008><337.4827><, BrokenShelterWaterLevel><515.3615><276.4161><, ShelterBhvrSpawnPosition><634.4454><438.2076><, ShelterBhvrSpawnPosition><472.0949><269.1237><, ShelterBhvrPlacedDoor><244.1901><537.9408><1^0, ShelterBhvrNoTriggerZone><221.3391><222.3812><150~372, CustomDecal><233.6075><162.1097><-2~181~500~180~499~-9~-286~-201~0.1630435~1~0~dirtywaterline~0.6195652~1~0.7282609~1~0.8260869~1~0.5869565~1, 
 AmbientSounds: SPOT><SO_WAT-OpenFlow.ogg><792.8503><290.0769><0.1847826><0.823913><270.8503><367.0769><-208.3553><-110.3553><0><0.1760871, 
 FadePalette: 8, 0.25

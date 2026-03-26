@@ -10,6 +10,6 @@ Palette: 455
 EffectColorA: 10
 EffectColorB: 4
 Effects: Fog-0.5026607-20-20, 
-PlacedObjects: ShelterBhvrManager><4.547012><243.979><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrSpawnPosition><136.6524><358.8677><, ShelterBhvrSpawnPosition><381.9839><334.1951><, ShelterBhvrSpawnPosition><458.309><335.6622><, ShelterBhvrSpawnPosition><256.1686><254.6329><, ShelterBhvrPlacedDoor><263.6925><647.5817><0^-1, 
+PlacedObjects: ShelterBhvrManager><4.547012><243.979><, ShelterBhvrSpawnPosition><136.6524><358.8677><, ShelterBhvrSpawnPosition><381.9839><334.1951><, ShelterBhvrSpawnPosition><458.309><335.6622><, ShelterBhvrSpawnPosition><256.1686><254.6329><, ShelterBhvrPlacedDoor><263.6925><647.5817><0^-1, ShelterBhvrPlacedDoor><606.8604><351.4167><-1^0, 
 AmbientSounds: OMNI><RWTW_AR_CityWithNoBuildings.ogg><765.3><517.7454><0.08695652><1, OMNI><RWTW_AR_WindyCliff.ogg><749.9337><295.0792><0.05434782><0.8043478, 
 FadePalette: 24, 0.3078456
